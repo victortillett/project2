@@ -26,11 +26,11 @@ CREATE TABLE student(
     city VARCHAR (50),
     district VARCHAR (50),
     school_id INT,
-    program_id INT NOT NULL,
+    program_id CHAR(4),
     FOREIGN KEY (school_id)
         REFERENCES school (school_id),
     FOREIGN KEY (program_id)
-        REFERENCES program (program_id)
+        REFERENCES programs (program_id)
 );
 
 CREATE TABLE program_status(
