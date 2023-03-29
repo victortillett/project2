@@ -1,0 +1,41 @@
+
+/**/
+Select S.student_id,PS.course_grade
+FROM Student AS S 
+JOIN program_status AS PS
+ON S.student_id=PS.student_id
+WHERE PS.course_grade = 'F';
+
+
+SELECT i.instructor_name, COUNT(*) AS num_courses_taught
+FROM instructors i
+JOIN courses c ON i.instructor_id = c.instructor_id
+GROUP BY i.instructor_name
+ORDER BY num_courses_taught DESC;
+
+
+SELECT s.student_id, s.school_id, s.program_id, p.program_name, ps.course_grade
+FROM student AS s
+JOIN completion As C
+ON s.student_id = c.student_id
+JOIN programs AS p 
+ON s.program_id = p.program_id
+JOIN faculties AS f 
+ON p.faculty_id = f.faculty_id
+JOIN program_status  AS ps 
+ON s.student_id = ps.student_id 
+WHERE f.faculty_id= 'FST' AND ps.course_grade = 'B'
+
+SELECT AVG(course_points) AS avg_grade 
+FROM program_status ps 
+JOIN student s 
+ON ps.student_id = s.student_id 
+JOIN programs p 
+ON s.program_id = p.program_id 
+WHERE s.gender = 'F' AND p.program_id = 'AINT';
+
+SELECT PS.student_id, PS.course_grade, PS.course_points, PS.semester, C.course_id, C.code, C.title
+ FROM program_status AS PS 
+ JOIN courses AS C 
+ ON PS.course_id = C.course_id 
+ WHERE PS.student_id = 4538;

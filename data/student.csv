@@ -1,1309 +1,1309 @@
-student_id,gender,ethnicity,city,district,school_id,program_id
-1,F,Creole,Belmopan City,Cayo,12,1
-4,F,Creole,Belize City,BELIZE,12,1
-89,M,Creole,Belize City,BELIZE,13,1
-113,M,Creole,Belmopan City,Cayo,13,1
-551,M,Mestizo,BELMOPAN,Cayo,13,1
-639,M,Creole,Cayo,BELIZE,30,1
-653,M,Creole,Belize City,BELIZE,13,1
-749,M,East Indian,Santa Elena Town,Cayo,13,1
-1217,F,Mestizo,Cayo,Cayo,10,1
-1303,M,Garifuna,DANGRIGA TOWN,STANN CREEK,13,1
-1353,M,East Indian,CAMALOTE VILLAGE,Cayo,30,1
-1652,M,Creole,Belmopan City,Cayo,51,1
-2030,F,Other,Cayo,Cayo,11,1
-2077,M,Creole,Belize City,BELIZE,22,1
-2158,M,Garifuna,Belmopan City,Cayo,25,1
-2515,M,Mestizo,ORANGE WALK,ORANGE WALK,10,1
-2694,M,Creole,-,Cayo,11,1
-2788,M,Creole,Belmopan City,Cayo,13,1
-2792,M,Creole,Belmopan City,Cayo,13,1
-3136,M,Creole,Belize City,BELIZE,10,1
-3301,M,Mestizo,Belize City,BELIZE,,1
-3573,M,Mayan,ROARING CREEK VILLAGE,Cayo,30,1
-3593,F,Mestizo,COROZAL TOWN,COROZAL,10,1
-3641,M,Creole,INDEPENDENCE VILLAGE,STANN CREEK,13,1
-3845,F,Mestizo,Belmopan City,Cayo,33,1
-3864,M,Creole,LADYVILLE VILLAGE,BELIZE,,1
-3874,M,Creole,Belize City,BELIZE,13,1
-3880,F,Creole,PUNTA GORDA,TOLEDO,10,1
-4258,M,Creole,Belize City,BELIZE,10,1
-4369,M,Creole,DANGRIGA TOWN,STANN CREEK,13,1
-4395,M,Ketchi,Belmopan City,Cayo,13,1
-4396,F,Garifuna,PUNTA GORDA,TOLEDO,13,1
-4407,M,Other,Belize City,BELIZE,,1
-4446,F,Other,Belmopan City,Cayo,13,1
-4484,M,Mestizo,,Cayo,13,1
-4508,F,Garifuna,PUNTA GORDA,TOLEDO,,1
-4518,M,Creole,Belmopan City,Cayo,13,1
-4538,M,Oriental,Belize City,BELIZE,58,1
-4566,M,Mestizo,Belmopan City,Cayo,7,1
-4584,M,Creole,Belize City,BELIZE,13,1
-4602,M,Mayan,Belmopan City,Cayo,30,1
-4639,M,Mestizo,Belmopan City,Cayo,30,1
-4672,F,Mestizo,,BELIZE,27,1
-4699,M,Creole,-,Cayo,22,1
-4706,M,Creole,Belmopan City,Cayo,13,1
-4716,M,Mestizo,BELMOPAN,Cayo,13,1
-4751,M,Mestizo,-,BELIZE,20,1
-4758,M,Garifuna,Belmopan City,Cayo,36,1
-4788,M,Creole,Belize City,BELIZE,10,1
-4798,F,East Indian,LADYVILLE VILLAGE,BELIZE,12,1
-4818,M,Creole,Belize City,BELIZE,20,1
-4829,M,Mestizo,Belize City,BELIZE,40,1
-4859,F,Creole,Belize City,BELIZE,10,1
-4869,M,Mestizo,SAN NARCISO VILLAGE,COROZAL,28,1
-4880,M,Creole,INDEPENDENCE VILLAGE,STANN CREEK,36,1
-4920,F,Garifuna,Belize City,BELIZE,13,1
-4929,M,Ketchi,Belmopan City,Cayo,45,1
-4934,M,Garifuna,COROZAL DISTRICT,COROZAL,72,1
-4963,F,Oriental,DANGRIGA TOWN,STANN CREEK,25,1
-4987,M,Creole,Belmopan City,Cayo,30,1
-5016,M,Creole,Belize City,BELIZE,10,1
-5031,M,Garifuna,Belize City,BELIZE,40,1
-5055,M,Mayan,TOLEDO DISTRICT,TOLEDO,13,1
-5091,M,Mestizo,,Cayo,27,1
-5116,M,Creole,Belmopan City,Cayo,13,1
-5125,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,32,1
-5142,F,Creole,ROARING CREEK VILLAGE,Cayo,30,1
-5148,M,Mayan,ROARING CREEK VILLAGE,Cayo,10,1
-5165,M,Mestizo,ORANGE WALK TOWN,ORANGE WALK,71,1
-5167,M,Mestizo,Belmopan City,Cayo,13,1
-5181,F,Mestizo,SANTA ELENA,Cayo,27,1
-5207,M,Mestizo,BULLET TREE FALLS,Cayo,21,1
-5237,F,Creole,DANGRIGA TOWN,STANN CREEK,25,1
-5261,M,Oriental,Belmopan City,Cayo,,1
-5265,F,Creole,Belmopan City,Cayo,30,1
-5287,M,Oriental,BENQUE VIEJO DEL CARMEN,Cayo,13,1
-5320,F,Oriental,Belmopan City,Cayo,13,1
-5337,F,Mestizo,Belmopan City,Cayo,30,1
-5359,M,Oriental,ORANGE WALK,ORANGE WALK,10,1
-5385,F,Creole,Belmopan City,Cayo,13,1
-5388,M,Creole,CAMALOTE VILLAGE,Cayo,6,1
-5394,M,Creole,Belize City,BELIZE,10,1
-5400,F,Creole,Belmopan City,Cayo,13,1
-5455,M,Mestizo,Belize City,BELIZE,,1
-5464,M,Garifuna,Belize City,BELIZE,22,1
-5483,M,Creole,HATTIEVILLE VILLAGE,BELIZE,20,1
-5501,M,Other,Belize City,BELIZE,10,1
-5523,M,Creole,Belize City,BELIZE,,1
-5529,M,Mestizo,ORANGE WALK TOWN,ORANGE WALK,,1
-5546,F,Creole,,ORANGE WALK,,1
-5555,M,Mestizo,ORANGE WALK TOWN,ORANGE WALK,,1
-5570,M,Creole,Belize City,BELIZE,10,1
-5576,F,Mayan,TOLEDO DISTRICT,TOLEDO,18,1
-5595,F,Mayan,TOLEDO DISTRICT,TOLEDO,,1
-5606,M,Garifuna,Belize City,BELIZE,,1
-5616,M,Other,Belize City,BELIZE,,1
-5642,M,Mestizo,,ORANGE WALK,13,1
-5661,M,Other,Belmopan City,Cayo,,1
-5686,M,Creole,Belmopan City,Cayo,,1
-5696,F,Mestizo,Belmopan City,Cayo,49,1
-5702,M,Creole,Belmopan City,Cayo,30,1
-5713,M,Unknown,Belmopan City,Cayo,,1
-5735,M,Mestizo,Belmopan City,Cayo,,1
-5763,M,Mestizo,Cayo,Cayo,21,1
-5800,M,Creole,Belize City,BELIZE,22,1
-5819,M,Oriental,ORANGE WALK TOWN,ORANGE WALK,,1
-5826,F,Creole,INDEPENDENCE VILLAGE,STANN CREEK,,1
-5833,F,Creole,INDEPENDENCE VILLAGE,STANN CREEK,,1
-5845,M,Creole,Belmopan City,Cayo,30,1
-5874,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,,1
-5900,M,Garifuna,Belmopan City,Cayo,13,1
-5923,M,Mestizo,Belmopan City,Cayo,30,1
-5948,M,Oriental,COROZAL,COROZAL,51,1
-5973,M,Oriental,Belmopan City,Cayo,,1
-5976,M,Mestizo,Cayo,BELIZE,,1
-5987,M,Mestizo,Belmopan City,Cayo,,1
-6013,M,Creole,INDEPENDENCE VILLAGE,STANN CREEK,,1
-6018,M,East Indian,STANN CREEK DISTRICT,STANN CREEK,10,1
-6069,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,13,1
-6081,F,Mestizo,SAN IGNACIO,Cayo,13,1
-6096,F,Mestizo,SAN IGNACIO,Cayo,13,1
-6111,M,Creole,Belize City,BELIZE,10,1
-6128,M,Other,Belize City,BELIZE,,1
-6153,M,Garifuna,Belize City,BELIZE,10,1
-6191,M,Other,Belize City,BELIZE,,1
-6195,M,East Indian,Belize City,BELIZE,12,1
-6229,F,Creole,Cayo,BELIZE,27,1
-6243,M,Creole,Belmopan City,Cayo,10,1
-6260,M,Mestizo,ORANGE WALK,ORANGE WALK,71,1
-6287,F,Oriental,Belize City,BELIZE,,1
-6300,F,Creole,CAMALOTE VILLAGE,Cayo,30,1
-6309,M,Garifuna,Cayo,BELIZE,,1
-6316,F,Creole,SANTA ELENA,Cayo,84,1
-6321,M,Caucasian,Belmopan City,Cayo,30,1
-6332,M,Mestizo,Belmopan City,Cayo,38,1
-6366,F,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,13,1
-6373,M,Mayan,TOLEDO,BELIZE,45,1
-6404,M,Mestizo,ORANGE WALK,ORANGE WALK,26,1
-6423,M,Creole,Belize City,BELIZE,20,1
-6461,F,Creole,Belize City,BELIZE,22,1
-6467,M,Creole,Belize City,BELIZE,20,1
-6498,M,Mestizo,SAN IGNACIO,Cayo,63,1
-6524,F,Creole,ORANGE WALK,ORANGE WALK,33,1
-6554,F,Creole,SAN PEDRO TOWN,BELIZE,67,1
-6591,M,Mestizo,ORANGE WALK,ORANGE WALK,13,1
-6599,F,Mestizo,-,STANN CREEK,2,1
-6611,F,Mestizo,NULL,NULL,13,1
-6623,M,Creole,SANTA ELENA,Cayo,27,1
-6666,M,Garifuna,DANGRIGA TOWN,STANN CREEK,25,1
-6672,M,Mestizo,-,Cayo,13,1
-6674,M,Creole,Belize City,BELIZE,63,1
-6713,M,Creole,Belize City,BELIZE,40,1
-6720,M,Oriental,Belmopan City,Cayo,49,1
-6743,M,Garifuna,DANGRIGA TOWN,STANN CREEK,13,1
-6756,M,Creole,Belmopan City,Cayo,30,1
-6762,M,Other,Belmopan City,Cayo,30,1
-6793,M,Other,Belmopan City,Cayo,13,1
-6816,M,East Indian,BELMOPAN,Cayo,30,1
-6848,M,Mestizo,Belmopan City,Cayo,,1
-6853,F,Mestizo,SANTA ELENA,Cayo,27,1
-6880,M,Mayan,Belmopan City,Cayo,49,1
-6887,F,Garifuna,STANN CREEK,STANN CREEK,36,1
-6896,M,Creole,Cayo,BELIZE,30,1
-6904,M,Oriental,Belmopan City,Cayo,49,1
-6934,M,Creole,JANE USHER AREA,BELIZE,13,1
-6960,M,Mayan,Belmopan City,Cayo,72,1
-7018,F,East Indian,PUNTA GORDA,TOLEDO,10,1
-7020,M,Caucasian,Belmopan City,Cayo,49,1
-7026,M,Creole,PUNTA GORDA,TOLEDO,13,1
-7065,M,Other,Belize City,BELIZE,20,1
-7079,M,Garifuna,Belize City,BELIZE,48,1
-7090,M,Creole,STANN CREEK DISTRICT,BELIZE,30,1
-7096,M,Mestizo,ORANGE WALK,ORANGE WALK,47,1
-7126,M,Creole,LORDS BANK VILLAGE,BELIZE,22,1
-7135,M,Mestizo,Belmopan City,Cayo,30,1
-7186,F,Mestizo,,BELIZE,32,1
-7217,F,Mestizo,ORANGE WALK TOWN,ORANGE WALK,33,1
-7226,F,Mestizo,SAN IGNACIO,Cayo,27,1
-7253,M,Creole,Belmopan City,Cayo,30,1
-7258,M,Mestizo,Belmopan City,Cayo,13,1
-7293,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,32,1
-7335,F,Mayan,-,TOLEDO,18,1
-7340,M,Mestizo,-,COROZAL,13,1
-7407,M,Mestizo,TOLEDO DISTRICT,TOLEDO,18,1
-7424,M,Mayan,TOLEDO,TOLEDO,45,1
-7430,M,Creole,Belize City,BELIZE,13,1
-7439,F,Ketchi,STANN CREEK,STANN CREEK,36,1
-7448,M,Creole,Belize City,BELIZE,12,1
-7452,F,Creole,Belize City,BELIZE,20,1
-7457,M,Mayan,PUNTA GORDA,TOLEDO,45,1
-7467,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,11,1
-7477,M,Other,ORANGE WALK TOWN,ORANGE WALK,58,1
-7492,M,Mestizo,BELMOPAN,Cayo,47,1
-7505,M,Creole,Belize City,BELIZE,22,1
-7512,M,Creole,Belize City,BELIZE,48,1
-7535,M,Creole,Belmopan City,Cayo,72,1
-7575,M,Mestizo,LADYVILLE VILLAGE,BELIZE,37,1
-7581,M,Creole,DANGRIGA TOWN,STANN CREEK,25,1
-7631,M,Creole,INDEPENDENCE VILLAGE,STANN CREEK,36,1
-7662,M,Oriental,Belmopan City,Cayo,13,1
-7687,M,Oriental,ORANGE WALK TOWN,ORANGE WALK,13,1
-7707,M,Creole,SANTA ELENA,Cayo,13,1
-7710,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,32,1
-7746,F,Mestizo,Belmopan City,Cayo,30,1
-7755,F,Mestizo,SAN IGNACIO,Cayo,27,1
-7770,M,Oriental,Belmopan City,Cayo,30,1
-7800,M,Mestizo,Belize City,BELIZE,37,1
-7842,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,27,1
-7869,M,Creole,DANGRIGA TOWN,STANN CREEK,25,1
-7902,F,Creole,Belmopan City,Cayo,30,1
-7914,M,Creole,LADYVILLE VILLAGE,BELIZE,20,1
-7950,F,Creole,Belize City,BELIZE,48,1
-7962,M,Mestizo,Belmopan City,Cayo,30,1
-7973,F,Creole,Belmopan City,Cayo,30,1
-8005,M,Mestizo,Belmopan City,Cayo,30,1
-8013,F,Other,COROZAL TOWN,COROZAL,7,1
-8016,M,Mestizo,Belize City,BELIZE,12,1
-8026,M,Creole,Belize City,BELIZE,42,1
-8062,F,Creole,Belize City,BELIZE,56,1
-8067,F,Mestizo,DOUGLAS VILLAGE,ORANGE WALK,2,1
-8073,M,Creole,STANN CREEK,STANN CREEK,25,1
-8109,F,Creole,STANN CREEK,STANN CREEK,25,1
-8147,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,32,1
-8153,M,Mestizo,Belize City,BELIZE,48,1
-8171,M,East Indian,Belmopan City,Cayo,,1
-8182,F,Creole,Belize City,BELIZE,10,1
-8205,F,Creole,SAN IGNACIO,Cayo,27,1
-8221,M,Mestizo,COROZAL,COROZAL,13,1
-8234,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,27,1
-8241,F,Mestizo,SANTA ELENA,Cayo,,1
-8247,M,Mestizo,,ORANGE WALK,26,1
-8271,M,Creole,Belize City,BELIZE,48,1
-8286,F,Creole,Belize City,BELIZE,48,1
-8294,M,Creole,Belize City,BELIZE,10,1
-8300,F,Mestizo,SAN IGNACIO,Cayo,11,1
-8307,F,Mestizo,ORANGE WALK,ORANGE WALK,10,1
-8326,F,Mestizo,Belmopan City,Cayo,,1
-8339,M,Garifuna,Belmopan City,Cayo,25,1
-8375,F,Mestizo,COROZAL,COROZAL,51,1
-8397,F,Creole,SANTA ELENA,Cayo,32,1
-8404,M,Creole,Belize City,BELIZE,13,1
-8420,M,Mestizo,SAN IGNACIO,Cayo,27,1
-8428,M,East Indian,TOLEDO,TOLEDO,45,1
-8440,F,Mestizo,-,STANN CREEK,79,1
-8473,M,Mestizo,Cayo,Cayo,32,1
-8492,M,Mestizo,BELMOPAN,Cayo,30,1
-8521,M,Mestizo,Belmopan City,Cayo,72,1
-8554,M,Creole,Belmopan City,Cayo,48,1
-8593,M,Mayan,Belize City,BELIZE,13,1
-8602,F,Mestizo,SANTA ELENA,Cayo,21,1
-8620,M,Creole,Belize City,BELIZE,11,1
-8640,M,Creole,-,BELIZE,30,1
-8675,M,Mestizo,Belmopan City,Cayo,30,1
-8704,M,Creole,Belize City,BELIZE,48,1
-8721,M,Mestizo,Belmopan City,Cayo,30,1
-8751,M,Mestizo,,ORANGE WALK,26,1
-8780,F,Creole,Belmopan City,Cayo,30,1
-8789,M,Oriental,LADYVILLE VILLAGE,BELIZE,63,1
-8792,M,Mayan,PUNTA GORDA TOWN,TOLEDO,45,1
-8804,M,Creole,-,STANN CREEK,25,1
-8834,M,Other,Belmopan City,Cayo,,1
-8858,M,Mestizo,Belmopan City,Cayo,30,1
-8884,M,Creole,Belize City,BELIZE,20,1
-8921,M,Creole,-,BELIZE,37,1
-8942,M,Mestizo,-,Cayo,32,1
-8989,M,Creole,,Cayo,66,1
-9015,M,Creole,Belmopan City,Cayo,30,1
-9021,M,Mestizo,ORANGE WALK TOWN,ORANGE WALK,33,1
-9047,M,Mestizo,STANN CREEK DISTRICT,BELIZE,25,1
-9076,M,Oriental,Belmopan City,Cayo,,1
-9093,M,Creole,Belize City,BELIZE,,1
-9123,M,Mestizo,Belmopan City,Cayo,13,1
-9126,M,Mestizo,Belize City,BELIZE,49,1
-9140,F,Creole,Belize City,BELIZE,17,1
-9152,M,Mestizo,SAN IGNACIO,Cayo,27,1
-9181,M,Creole,Belize City,BELIZE,40,1
-9202,F,Oriental,Belmopan City,Cayo,,1
-9230,M,Creole,,Cayo,30,1
-9237,M,Mestizo,Belmopan City,Cayo,30,1
-9244,M,Mestizo,Belmopan City,Cayo,30,1
-9289,M,Garifuna,Belmopan City,Cayo,49,1
-9299,M,Mayan,ROARING CREEK VILLAGE,Cayo,30,1
-9318,F,Mestizo,-,Cayo,27,1
-9331,M,Creole,Belmopan City,Cayo,30,1
-9355,M,Creole,Belize City,BELIZE,45,1
-9367,M,Garifuna,DANGRIGA TOWN,STANN CREEK,,1
-9396,F,Mestizo,,STANN CREEK,36,1
-9406,F,Creole,Belmopan City,Cayo,30,1
-9431,F,Mayan,PUNTA GORDA,TOLEDO,45,1
-9433,M,Mestizo,,BELIZE,,1
-9458,M,Creole,Belize City,BELIZE,36,1
-9464,F,Mestizo,Belmopan City,Cayo,30,1
-9490,M,Mayan,Belmopan City,Cayo,30,1
-9504,M,Creole,Belmopan City,Cayo,30,1
-9510,M,Mestizo,Belize City,BELIZE,10,1
-9532,M,Mestizo,Belize City,BELIZE,10,1
-9548,M,Mestizo,Belmopan City,Cayo,66,1
-9567,M,Creole,Belmopan City,Cayo,,1
-9590,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,32,1
-9613,M,Mestizo,-,Cayo,66,1
-9649,M,Creole,BELMOPAN,Cayo,49,1
-9683,M,Mestizo,Cayo,BELIZE,32,1
-9719,M,Mestizo,,Cayo,13,1
-9751,M,Creole,ORANGE WALK,BELIZE,9,1
-9760,M,Mestizo,SAN IGNACIO,Cayo,11,1
-9764,M,Creole,Belmopan City,Cayo,66,1
-9772,M,Creole,BURRELL BOOM VILLAGE,BELIZE,10,1
-9779,F,Mayan,,TOLEDO,18,1
-9791,F,Mayan,Belmopan City,Cayo,18,1
-9822,F,Mayan,,TOLEDO,18,1
-9828,M,Creole,Belmopan City,Cayo,30,1
-9834,M,Other,Belmopan City,BELIZE,13,1
-9838,M,Mestizo,Belmopan City,Cayo,85,1
-9851,M,Creole,BELMOPAN,Cayo,61,1
-9876,F,Creole,SAN IGNACIO,Cayo,21,1
-9888,M,Mayan,,STANN CREEK,36,1
-9916,M,Creole,-,STANN CREEK,13,1
-9939,M,Creole,CAMALOTE VILLAGE,Cayo,49,1
-9942,M,Creole,Belize City,BELIZE,40,1
-9965,F,Creole,Belize City,BELIZE,22,1
-9970,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,27,1
-10001,M,Creole,Belize City,BELIZE,20,1
-10004,M,Garifuna,DANGRIGA TOWN,STANN CREEK,25,1
-10013,M,Creole,ROARING CREEK VILLAGE,Cayo,,1
-10018,M,Creole,BELMOPAN,Cayo,45,1
-10034,M,Mestizo,Belmopan City,Cayo,30,1
-10074,M,Garifuna,DANGRIGA TOWN,STANN CREEK,44,1
-10086,M,Creole,Belize City,BELIZE,40,1
-10114,M,Garifuna,DANGRIGA TOWN,STANN CREEK,44,1
-10145,F,Creole,HATTIEVILLE VILLAGE,BELIZE,48,1
-10156,M,Mestizo,Santa Elena Town,Cayo,13,1
-10173,F,Creole,Belize City,BELIZE,42,1
-10182,M,Mayan,BENQUE VIEJO DEL CARMEN,Cayo,32,1
-10208,M,Mestizo,ORANGE WALK,ORANGE WALK,26,1
-10239,M,Mayan,Belmopan City,Cayo,30,1
-10266,M,Creole,Belize City,BELIZE,40,1
-10275,M,Caucasian,SAN IGNACIO,Cayo,,1
-10293,M,Creole,Belize City,BELIZE,47,1
-10306,M,Creole,Belmopan City,Cayo,30,1
-10321,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,32,1
-10347,M,Creole,DANGRIGA TOWN,STANN CREEK,25,1
-10375,M,Creole,Belmopan City,Cayo,66,1
-10382,F,Other,Belize City,BELIZE,48,1
-10415,M,Mestizo,SAN IGNACIO TOWN,Cayo,13,1
-10427,F,Mestizo,Belmopan City,Cayo,66,1
-10437,M,Mestizo,Belmopan City,Cayo,27,1
-10446,M,Creole,Belmopan City,Cayo,30,1
-10471,M,Creole,Belmopan City,Cayo,,1
-10500,M,Mestizo,Belize City,BELIZE,28,1
-10506,F,East Indian,BELIZE DISTRICT,BELIZE,10,1
-10533,F,Creole,Belize City,BELIZE,10,1
-10542,M,Mestizo,Belmopan City,Cayo,,1
-10565,M,Creole,CAMALOTE VILLAGE,Cayo,13,1
-10568,M,Creole,Belmopan City,Cayo,30,1
-10591,M,Creole,Belmopan City,Cayo,13,1
-10601,M,Mestizo,Belmopan City,Cayo,13,1
-10609,F,Creole,ROARING CREEK VILLAGE,Cayo,13,1
-10614,M,Oriental,Belmopan City,Cayo,13,1
-10627,M,Mestizo,SANTA ELENA,Cayo,26,1
-10646,M,Other,Belize City,BELIZE,,1
-10653,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,,1
-10669,M,Creole,-,Cayo,32,1
-10677,M,East Indian,INDIANVILLE,TOLEDO,,1
-10697,F,Garifuna,ROARING CREEK VILLAGE,Cayo,30,1
-10715,M,Garifuna,DANGRIGA TOWN,STANN CREEK,44,1
-10720,M,Creole,Belmopan City,Cayo,30,1
-10731,M,Mestizo,DANGRIGA TOWN,STANN CREEK,25,1
-10734,M,Creole,,Cayo,,1
-10762,M,Creole,Belize City,BELIZE,48,1
-10773,F,Creole,Belize City,BELIZE,20,1
-10785,M,Mestizo,-,ORANGE WALK,13,1
-10788,M,Creole,Belize City,BELIZE,13,1
-10793,F,Mestizo,Belmopan City,Cayo,29,1
-10801,M,Mestizo,DANGRIGA TOWN,STANN CREEK,25,1
-10807,M,Oriental,Belmopan City,Cayo,30,1
-10832,M,Mestizo,ORANGE WALK DISTRICT,BELIZE,,1
-10840,M,Mestizo,Cayo,BELIZE,32,1
-10859,M,Creole,Belize City,BELIZE,20,1
-10863,F,Mestizo,Belmopan City,Cayo,30,1
-10870,M,Mestizo,Belize City,BELIZE,40,1
-10889,M,Mestizo,-,COROZAL,28,1
-10901,M,Mestizo,Santa Elena Town,Cayo,27,1
-10914,M,Creole,Belize City,BELIZE,63,1
-10925,F,Mestizo,SAN PEDRO TOWN,BELIZE,39,1
-10955,M,Creole,ORANGE WALK TOWN,ORANGE WALK,20,1
-10958,F,Mestizo,Belmopan City,Cayo,30,1
-10971,M,Creole,PUNTA GORDA,TOLEDO,45,1
-10977,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,27,1
-10983,F,Creole,Belmopan City,Cayo,17,1
-11004,F,Creole,Belmopan City,Cayo,66,1
-11029,F,Oriental,Belmopan City,Cayo,72,1
-11054,M,East Indian,SANTA ELENA,Cayo,,1
-11082,M,Mestizo,SAN NARCISO VILLAGE,COROZAL,28,1
-11096,M,Mestizo,SAN ANTONIO VILLAGE,Cayo,27,1
-11107,M,Mestizo,SAN LAZARO VILLAGE,ORANGE WALK,26,1
-11132,F,Mestizo,ORANGE WALK TOWN,ORANGE WALK,26,1
-11138,M,Oriental,Belmopan City,Cayo,30,1
-11164,M,Mestizo,Belmopan City,Cayo,30,1
-11169,M,Mestizo,INDEPENDENCE VILLAGE,STANN CREEK,36,1
-11191,F,Creole,-,Cayo,86,1
-11198,F,Mestizo,ORANGE WALK TOWN,ORANGE WALK,33,1
-11224,M,Oriental,Belmopan City,Cayo,40,1
-11250,M,Mestizo,Belize City,BELIZE,48,1
-11277,F,East Indian,SANDHILL VILLAGE,BELIZE,10,1
-11301,M,East Indian,Belize City,BELIZE,10,1
-11319,M,Other,Belmopan City,Cayo,,1
-11344,M,Creole,BURRELL BOOM VILLAGE,BELIZE,,1
-11353,M,Mestizo,Belmopan City,Cayo,30,1
-11356,M,Creole,Belize City,BELIZE,20,1
-11371,M,East Indian,Belize City,BELIZE,20,1
-11378,M,Garifuna,Belmopan City,Cayo,66,1
-11404,M,Creole,BELMOPAN,Cayo,,1
-11423,M,Oriental,Belmopan City,Cayo,25,1
-11449,F,Mestizo,Belize City,BELIZE,,1
-11462,M,Creole,BELMOPAN,Cayo,,1
-11468,M,Creole,ROARING CREEK VILLAGE,Cayo,13,1
-11471,M,Mayan,-,STANN CREEK,13,1
-11506,M,Creole,PUNTA GORDA TOWN,TOLEDO,45,1
-11517,M,Mayan,PUNTA GORDA,TOLEDO,45,1
-11521,M,Mestizo,Belmopan City,Cayo,27,1
-11551,M,Mayan,Belmopan City,Cayo,49,1
-11564,M,East Indian,,Cayo,27,1
-11580,M,Garifuna,STANN CREEK,STANN CREEK,21,1
-11618,M,Creole,Belmopan City,Cayo,66,1
-11654,M,Mayan,Cayo,BELIZE,30,1
-11688,F,Mayan,BENQUE VIEJO TOWN,Cayo,45,1
-11692,M,Creole,Belize City,BELIZE,22,1
-11702,M,Unknown,Belize City,BELIZE,20,1
-11725,M,Caucasian,Belmopan City,Cayo,72,1
-11743,M,Unknown,Belmopan City,Cayo,30,1
-11750,M,Caucasian,Belmopan City,Cayo,51,1
-11753,M,Garifuna,DANGRIGA TOWN,STANN CREEK,25,1
-11782,M,Ketchi,BELMOPAN,Cayo,66,1
-11822,M,Mestizo,STANN CREEK DISTRICT,STANN CREEK,36,1
-11828,M,Mestizo,Belmopan City,Cayo,66,1
-11854,F,Garifuna,BELMOPAN,Cayo,30,1
-11886,F,Mestizo,VALLEY OF PEACE,Cayo,30,1
-11891,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,38,1
-11900,M,Mestizo,Belize City,BELIZE,10,1
-11908,M,Mestizo,SANTA FAMILIA VILLAGE,Cayo,32,1
-11930,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,32,1
-11964,M,Mestizo,Cayo,BELIZE,27,1
-11989,F,Mestizo,SANTA ELENA,Cayo,27,1
-11995,M,Unknown,BURRELL BOOM VILLAGE,BELIZE,61,1
-12009,F,Mestizo,Belize City,BELIZE,56,1
-12021,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,32,1
-12041,M,Mayan,TOLEDO DISTICT,TOLEDO,45,1
-12064,M,Creole,Belmopan City,Cayo,66,1
-12069,F,Mestizo,SANTA ELENA,Cayo,50,1
-12112,M,Mestizo,ORANGE WALK DISTRICT,ORANGE WALK,73,1
-12118,F,Creole,Belize City,BELIZE,40,1
-12132,F,Mayan,Belmopan City,Cayo,49,1
-12173,M,Creole,Belmopan City,Cayo,66,1
-12198,M,Mestizo,ORANGE WALK TOWN,ORANGE WALK,26,1
-12207,M,Mestizo,Belmopan City,Cayo,49,1
-12227,M,Mestizo,ORANGE WALK DISTRICT,ORANGE WALK,26,1
-12262,M,Unknown,DANGRIGA TOWN,STANN CREEK,2,1
-12276,M,Mestizo,Belmopan City,Cayo,11,1
-12281,M,Creole,Belmopan City,Cayo,13,1
-12297,M,Mestizo,TOLEDO DISTRICT,BELIZE,36,1
-12322,M,Mestizo,Belize City,BELIZE,10,1
-12333,M,Mestizo,Belmopan City,Cayo,30,1
-12350,M,Mestizo,Belmopan City,Cayo,30,1
-12354,M,Other,SAN IGNACIO,Cayo,27,1
-12358,M,Creole,-,BELIZE,10,1
-12370,M,Creole,Belmopan City,Cayo,30,1
-12375,M,Creole,-,Cayo,,1
-12398,F,Mayan,-,ORANGE WALK,,1
-12404,M,Creole,CAMALOTE VILLAGE,Cayo,,1
-12412,M,Mestizo,ROARING CREEK VILLAGE,Cayo,66,1
-12422,F,Garifuna,Belmopan City,Cayo,13,1
-12429,F,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,13,1
-12432,F,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,27,1
-12455,M,Creole,Cayo,BELIZE,11,1
-12461,M,Creole,,BELIZE,22,1
-12466,M,Garifuna,COROZAL TOWN,BELIZE,51,1
-12478,M,Mestizo,Belmopan City,Cayo,30,1
-12487,M,Mestizo,TOLEDO,BELIZE,45,1
-12503,M,Mayan,COROZAL,BELIZE,18,1
-12519,M,Creole,Belmopan City,Cayo,30,1
-12520,M,Mestizo,-,Cayo,27,1
-12554,M,Garifuna,STANN CREEK,BELIZE,2,1
-12575,M,Creole,BELMOPAN,Cayo,30,1
-12585,F,Mayan,-,Cayo,30,1
-12591,M,Mestizo,Belmopan City,Cayo,30,1
-12594,F,Mestizo,,BELIZE,17,1
-12604,F,East Indian,Belize City,BELIZE,13,1
-12617,M,Creole,Belmopan City,Cayo,30,1
-12656,M,Mestizo,SAN IGNACIO,Cayo,13,1
-12706,M,Mestizo,Cayo,BELIZE,27,1
-12729,M,Other,Belmopan City,Cayo,13,1
-12753,M,Creole,CITY OF BELMOPAN,Cayo,13,1
-12793,M,Creole,Cayo,BELIZE,,1
-12797,M,Creole,BELMOPAN,Cayo,30,1
-12829,M,Creole,Belize City,BELIZE,,1
-12847,M,Creole,STANN CREEK,BELIZE,13,1
-12859,M,Mestizo,ORANGE WALK TOWN,ORANGE WALK,71,1
-12868,M,Creole,Cayo,BELIZE,9,1
-12872,M,Creole,STANN CREEK,BELIZE,2,1
-12896,M,Creole,Belmopan City,Cayo,66,1
-12909,M,Mestizo,Belmopan City,Cayo,30,1
-12930,M,Mestizo,Santa Elena Town,Cayo,27,1
-12948,M,Mestizo,Belmopan City,Cayo,66,1
-12953,M,Creole,Cayo,BELIZE,27,1
-12958,M,Creole,Belmopan City,Cayo,66,1
-12980,M,Creole,Belize City,BELIZE,20,1
-12997,M,Mayan,,BELIZE,49,1
-13000,M,Mayan,Belize City,BELIZE,36,1
-13028,M,Creole,Belize City,BELIZE,40,1
-13065,M,Garifuna,STANN CREEK,BELIZE,,1
-13072,F,Mestizo,BELMOPAN,Cayo,17,1
-13083,M,Mestizo,Cayo,BELIZE,30,1
-13102,M,Creole,Belize City,BELIZE,10,1
-13110,M,Mestizo,Belmopan City,Cayo,49,1
-13113,M,Oriental,Cayo,BELIZE,27,1
-13140,M,Mestizo,Cayo,BELIZE,27,1
-13165,F,Creole,-,BELIZE,27,1
-13181,F,Creole,Belize City,BELIZE,40,1
-13206,M,Mestizo,-,BELIZE,13,1
-13231,M,Creole,Belmopan City,Cayo,66,1
-13237,M,Creole,-,Cayo,30,1
-13259,F,Mestizo,,BELIZE,39,1
-13284,M,Mestizo,BELMOPAN,Cayo,66,1
-13298,F,Creole,Belize City,BELIZE,40,1
-13302,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,27,1
-13334,M,Mestizo,-,BELIZE,27,1
-13369,M,Garifuna,Belize City,BELIZE,10,1
-13380,M,Mayan,SAN ANTONIO VILLAGE,Cayo,27,1
-13388,M,Creole,Cayo,Cayo,,1
-13392,M,Mestizo,COROZAL TOWN,COROZAL,,1
-13410,M,Garifuna,TOLEDO,BELIZE,45,1
-13440,M,Creole,,BELIZE,13,1
-13444,M,Mestizo,,BELIZE,39,1
-13461,M,Other,Belmopan City,Cayo,80,1
-13466,F,East Indian,Belize City,BELIZE,40,1
-13471,M,Mestizo,Belize City,BELIZE,10,1
-13475,F,Mestizo,-,BELIZE,13,1
-13520,F,Creole,Cayo,BELIZE,,1
-13547,M,Mestizo,BELMOPAN,Cayo,30,1
-13569,M,Garifuna,Belmopan City,Cayo,,1
-13572,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,27,1
-13578,M,Creole,Belmopan City,Cayo,42,1
-13612,M,Mestizo,Belmopan City,Cayo,27,1
-13627,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,32,1
-13642,M,Creole,Belmopan City,Cayo,13,1
-13685,M,Garifuna,DANGRIGA TOWN,STANN CREEK,25,1
-13712,M,Creole,Belize City,BELIZE,,1
-13718,M,Creole,Belmopan City,Cayo,30,1
-13721,M,Mestizo,SAN PEDRO AMBERGRIS CAYE,BELIZE,3,1
-13727,F,Mestizo,Belmopan City,Cayo,66,1
-13757,M,Mestizo,Belize City,BELIZE,10,1
-13769,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,32,1
-13778,F,Mestizo,Belize City,BELIZE,17,1
-13804,M,Mestizo,SANTA FAMILIA VILLAGE,Cayo,32,1
-13813,M,Creole,Belize City,BELIZE,20,1
-13822,M,Mestizo,SAN IGNACIO,Cayo,11,1
-13826,M,Mestizo,Belmopan City,Cayo,30,1
-13853,F,Mestizo,Belmopan City,Cayo,66,1
-13868,M,Mestizo,GUINEA GRASS VILLAGE,ORANGE WALK,26,1
-13898,M,Oriental,SAN IGNACIO,Cayo,11,1
-13923,M,Creole,COROZAL TOWN,COROZAL,51,1
-13961,F,Mestizo,,STANN CREEK,,1
-13973,M,Mestizo,-,Cayo,27,1
-14001,M,Mestizo,Belmopan City,Cayo,30,1
-14043,M,Garifuna,DANGRIGA TOWN,STANN CREEK,25,1
-14069,M,Garifuna,DANGRIGA TOWN,STANN CREEK,2,1
-14085,M,Garifuna,Belmopan City,Cayo,66,1
-14117,M,Creole,,Cayo,13,1
-14120,F,Mestizo,ORANGE WALK TOWN,ORANGE WALK,15,1
-14123,F,Mestizo,ONTARIO VILLAGE,Cayo,35,1
-14129,F,Creole,Belize City,BELIZE,40,1
-14154,M,Mayan,SAN IGNACIO,Cayo,27,1
-14159,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,32,1
-14185,M,Mestizo,TRIAL FARM,ORANGE WALK,26,1
-14213,M,Creole,BELMOPAN,Cayo,25,1
-14244,M,Oriental,SAN IGNACIO TOWN,Cayo,27,1
-14263,M,Mestizo,SAN IGNACIO,Cayo,27,1
-14267,M,Mestizo,-,Cayo,49,1
-14279,M,Mestizo,SANTA ELENA,Cayo,11,1
-14310,M,Mestizo,SAN IGNACIO TOWN,Cayo,11,1
-14327,M,Mayan,Cayo,BELIZE,30,1
-14355,M,Creole,-,BELIZE,13,1
-14359,M,East Indian,LADYVILLE,BELIZE,63,1
-14364,M,Creole,Belize City,BELIZE,,1
-14392,M,Creole,-,BELIZE,10,1
-14394,M,Creole,,BELIZE,20,1
-14404,F,Garifuna,STANN CREEK DISTRICT,STANN CREEK,,1
-14409,M,Mestizo,Belize City,BELIZE,13,1
-14422,M,Mayan,STANN CREEK DISTRICT,STANN CREEK,13,1
-14434,M,Creole,Belmopan City,Cayo,10,1
-14457,M,Creole,Cayo,BELIZE,27,1
-14465,F,Creole,Cayo,BELIZE,30,1
-14470,F,Creole,Cayo,BELIZE,72,1
-14476,M,Mayan,-,Cayo,27,1
-14506,F,Creole,Belize City,BELIZE,20,1
-14551,M,Mestizo,SAN IGNACIO,Cayo,27,1
-14559,M,Oriental,Belize City,BELIZE,10,1
-14581,F,Creole,Belize City,BELIZE,10,1
-14589,F,Creole,Cayo,BELIZE,30,1
-14595,M,Mestizo,Cayo,BELIZE,32,1
-14601,F,Mestizo,Belize City,BELIZE,56,1
-14604,M,Mayan,SAN IGNACIO,Cayo,27,1
-14621,M,Mestizo,TOLEDO DISTRICT,TOLEDO,45,1
-14629,F,Mestizo,SANTA ELENA,BELIZE,27,1
-14655,M,Mestizo,Belmopan City,Cayo,49,1
-14681,F,Mestizo,Belmopan City,Cayo,30,1
-14693,M,Mestizo,Belmopan City,Cayo,47,1
-14703,M,Mayan,SAN MIGUEL VILLAGE,TOLEDO,,1
-14713,M,Garifuna,Belmopan City,Cayo,72,1
-14717,M,Mestizo,STANN CREEK,BELIZE,36,1
-14733,M,Mestizo,Cayo,BELIZE,30,1
-14741,M,Creole,Cayo,BELIZE,72,1
-14766,M,East Indian,Belmopan City,Cayo,66,1
-14772,F,Mestizo,Belmopan City,Cayo,72,1
-14778,M,Mestizo,ORANGE WALK TOWN,ORANGE WALK,10,1
-14801,M,Mestizo,Cayo,BELIZE,30,1
-14826,F,Oriental,Belmopan City,Cayo,30,1
-14835,M,Mayan,TOLEDO DISTRICT,TOLEDO,45,1
-14841,M,Mayan,Belize City,BELIZE,27,1
-14846,M,Mestizo,SAN IGNACIO,Cayo,27,1
-14873,M,Creole,SAN IGNACIO,Cayo,50,1
-14881,M,Creole,BELIZE,BELIZE,10,1
-14885,F,Mestizo,SAN IGNACIO,Cayo,21,1
-14897,M,Creole,Belmopan City,Cayo,30,1
-14922,F,Mestizo,ORANGE WALK TOWN,ORANGE WALK,15,1
-14928,M,Mestizo,ORANGE WALK,BELIZE,15,1
-14932,F,Mestizo,Belmopan City,Cayo,66,1
-14939,M,Creole,Cayo,BELIZE,35,1
-14964,M,Creole,Belmopan City,Cayo,13,1
-14978,F,Garifuna,Belmopan City,Cayo,66,1
-14982,M,Mestizo,-,Cayo,30,1
-14997,M,Garifuna,Belmopan City,Cayo,30,1
-15005,M,Creole,Belize City,BELIZE,13,1
-15014,F,Mestizo,Belmopan City,Cayo,13,1
-15018,F,Creole,Belize City,BELIZE,13,1
-15025,F,Garifuna,DANGRIGA TOWN,STANN CREEK,2,1
-15032,F,Creole,LADYVILLE VILLAGE,BELIZE,10,1
-15051,M,Mestizo,Belize City,BELIZE,10,1
-15056,M,Mestizo,-,Cayo,11,1
-15069,M,Garifuna,HOPKINS VILLAGE,STANN CREEK,2,1
-15072,M,Creole,-,Belize City,10,1
-15083,M,Garifuna,DANGRIGA TOWN,STANN CREEK,10,1
-15093,M,Garifuna,DANGRIGA TOWN,STANN CREEK,25,1
-15105,M,Creole,Belize City,BELIZE,40,1
-15149,M,Caucasian,CAMALOTE VILLAGE,Cayo,30,1
-15152,F,Mayan,-,TOLEDO,45,1
-15156,M,Creole,Belize City,BELIZE,20,1
-15167,M,Creole,-,Belize City,20,1
-15173,M,Mayan,SANTA ROSA VILLAGE,STANN CREEK,36,1
-15186,M,Mestizo,SAN IGNACIO TOWN,Cayo,27,1
-15191,M,Mestizo,Belize City,BELIZE,28,1
-15209,M,Creole,-,Belize City,19,1
-15215,F,Creole,Belize City,BELIZE,20,1
-15227,M,Creole,LADYVILLE VILLAGE,BELIZE,20,1
-15235,M,Garifuna,CHICAGO,Illinois,,1
-15268,M,Creole,-,Belize City,20,1
-15273,M,Creole,Belmopan City,Cayo,66,1
-15293,M,Mestizo,Belmopan City,Cayo,13,1
-15317,F,Creole,-,Cayo,30,1
-15326,M,Creole,-,BELIZE,13,1
-15331,M,Mestizo,Cayo,BELIZE,50,1
-15335,M,Garifuna,TOLEDO DISTRICT,BELIZE,45,1
-15344,M,Mestizo,Cayo,BELIZE,11,1
-15359,M,Mayan,-,STANN CREEK,2,1
-15368,M,Creole,Belmopan City,Cayo,10,1
-15374,M,Mestizo,Belmopan City,Cayo,13,1
-15400,M,Mestizo,Belmopan City,Cayo,66,1
-15410,M,Mestizo,-,Cayo,27,1
-15414,F,Mestizo,Belmopan City,Cayo,30,1
-15418,F,Mayan,-,Cayo,30,1
-15421,F,Mestizo,Belmopan City,Cayo,49,1
-15424,F,Mestizo,-,BELIZE,7,1
-15427,M,Garifuna,-,TOLEDO,81,1
-15453,F,Mestizo,Belmopan City,Cayo,30,1
-15480,M,Creole,-,STANN CREEK,66,1
-15487,M,Mestizo,-,Cayo,66,1
-15493,M,Creole,-,BELIZE,20,1
-15499,M,Mestizo,-,Cayo,35,1
-15525,F,Mestizo,-,Cayo,30,1
-15529,M,Mestizo,BELIZE,BELIZE,10,1
-15571,F,Creole,Belmopan City,Cayo,49,1
-15576,M,Mestizo,-,Cayo,10,1
-15582,F,Other,-,Cayo,72,1
-15588,F,Ketchi,-,TOLEDO,18,1
-15598,F,Mestizo,SAN IGNACIO TOWN,Cayo,32,1
-15628,F,Mestizo,Belmopan City,Cayo,30,1
-15639,F,Creole,DANGRIGA TOWN,STANN CREEK,25,1
-15656,M,Creole,-,TOLEDO,45,1
-15661,M,Caucasian,-,Cayo,27,1
-15690,M,Garifuna,-,STANN CREEK,25,1
-15694,F,Creole,Cayo DISTRICT,Cayo,30,1
-15698,M,Mestizo,-,Cayo,50,1
-15712,M,Creole,Belmopan City,Cayo,,1
-15715,F,Mestizo,SAN IGNACIO,Cayo,27,1
-15719,M,Creole,-,Cayo,66,1
-15725,F,Oriental,Belmopan City,Cayo,,1
-15729,F,Garifuna,-,STANN CREEK,44,1
-15731,F,Mestizo,Belmopan City,Cayo,49,1
-15734,F,Creole,-,Cayo,30,1
-15742,M,Garifuna,Belmopan City,Cayo,30,1
-15760,M,Mestizo,BELMOPAN,Cayo,35,1
-15800,M,Garifuna,-,STANN CREEK,25,1
-15814,M,Mestizo,BELMOPAN,Cayo,66,1
-15840,M,Mestizo,-,Cayo,27,1
-15841,M,Creole,BELMOPAN,Cayo,66,1
-15851,M,Creole,-,DANGRIGA,25,1
-15852,F,Creole,Belmopan City,Cayo,66,1
-15875,M,Mayan,-,Cayo,27,1
-15876,M,East Indian,-,TOLEDO,18,1
-15877,M,Mestizo,-,ORANGE WALK,26,1
-15883,M,Mestizo,-,Cayo,27,1
-15884,M,Creole,-,BELIZE,48,1
-15929,M,Mayan,BELMOPAN,Cayo,30,1
-15974,M,Creole,-,Cayo,20,1
-15975,M,Creole,-,Cayo,45,1
-16014,F,Garifuna,-,Cayo,66,1
-16015,F,Garifuna,-,BELIZE,56,1
-16046,M,Creole,-,BELIZE,10,1
-16047,M,Mestizo,-,STANN CREEK,36,1
-16061,M,Mestizo,-,TOLEDO,36,1
-16092,F,Caucasian,-,Cayo,72,1
-16103,M,Garifuna,-,STANN CREEK,36,1
-16104,M,Garifuna,-,STANN CREEK,36,1
-16112,M,Creole,-,Cayo,35,1
-16127,M,Mestizo,-,BELIZE,37,1
-16134,M,Mestizo,-,Cayo,35,1
-16161,M,Mestizo,-,ORANGE WALK,51,1
-16168,M,Mestizo,-,Cayo,27,1
-16189,F,Garifuna,BELIZE DISTRICT,BELIZE,37,1
-16198,M,Creole,-,BELIZE,70,1
-16199,M,Mayan,-,TOLEDO,45,1
-16200,M,Creole,-,Cayo,30,1
-16233,M,Mestizo,Belmopan City,Cayo,30,1
-16239,M,Mestizo,-,Cayo,27,1
-16256,M,Mestizo,-,Cayo,66,1
-16257,M,Creole,-,BELIZE,40,1
-16258,F,Creole,-,BELIZE,56,1
-16272,M,Mestizo,-,Cayo,30,1
-16315,M,Mestizo,-,BELIZE,20,1
-16316,M,Mestizo,ORANGE WALK,ORANGE WALK,,1
-16317,M,Mestizo,BELMOPAN,Cayo,12,1
-16320,M,Creole,-,Cayo,66,1
-16339,M,Mestizo,Belmopan City,Cayo,13,1
-16353,M,Mestizo,-,Cayo,27,1
-16377,M,Creole,Belize City,BELIZE,49,1
-16378,M,Creole,Santa Elena Town,Cayo,13,1
-16382,M,Mestizo,-,Cayo,13,1
-16407,M,Creole,-,STANN CREEK,,1
-16412,M,Creole,-,STANN CREEK,25,1
-16418,M,Creole,BELIZE,BELIZE,,1
-16419,M,Creole,-,BELIZE,40,1
-16428,M,Creole,-,Cayo,22,1
-16462,M,Garifuna,PUNTA GORDA TOWN,TOLEDO,45,1
-16477,M,Mestizo,Cayo DISTRICT,Cayo,30,1
-16509,M,Mestizo,-,BELIZE,66,1
-16551,M,Other,-,Cayo,,1
-16567,M,Mestizo,-,Cayo,13,1
-16589,M,Mayan,Belmopan City,Cayo,30,1
-16602,F,Garifuna,-,STANN CREEK,17,1
-16612,F,Mestizo,-,Cayo,72,1
-16627,M,Creole,-,BELIZE,20,1
-16663,F,Mestizo,SAN IGNACIO,Cayo,11,1
-16696,M,Mestizo,BELMOPAN,Cayo,25,1
-16712,M,Creole,-,STANN CREEK,25,1
-16716,M,Mestizo,-,Cayo,21,1
-16745,M,Other,BELMOPAN,Cayo,82,1
-16768,M,Mestizo,ORANGE WALK,ORANGE WALK,71,1
-16773,M,East Indian,Belize City,BELIZE,40,1
-16790,F,Mestizo,Belmopan City,Cayo,13,1
-16795,M,Mayan,-,TOLEDO,45,1
-16803,M,Mayan,TOLEDO DISTRICT,TOLEDO,45,1
-16809,M,Oriental,-,TOLEDO,45,1
-16836,F,Mayan,-,TOLEDO,18,1
-16841,F,Creole,Belize City,BELIZE,17,1
-16842,F,Mestizo,COROZAL TOWN,COROZAL,51,1
-16871,M,Mayan,-,STANN CREEK,25,1
-16878,M,Garifuna,-,STANN CREEK,25,1
-16879,M,Mayan,-,TOLEDO,45,1
-16883,M,Creole,-,STANN CREEK,45,1
-16908,M,Caucasian,-,Cayo,13,1
-16920,M,Mayan,BELMOPAN,Cayo,13,1
-16952,M,Creole,Belmopan City,Cayo,66,1
-16974,F,Creole,-,STANN CREEK,25,1
-16993,M,Mestizo,-,Cayo,38,1
-17004,M,Mestizo,-,Cayo,24,1
-17013,M,Creole,8.5 M WESTERN HWY,BELIZE,40,1
-17037,M,Creole,LADYVILLE VILLAGE,BELIZE,10,1
-17066,M,Oriental,DANGRIGA TOWN,STANN CREEK,25,1
-17094,M,Creole,Belmopan City,Cayo,66,1
-17110,F,Mestizo,Belmopan City,Cayo,30,1
-17115,F,Other,-,SAN PEDRO,39,1
-17116,M,Mestizo,Belmopan City,Cayo,30,1
-17147,M,Creole,Belmopan City,Cayo,45,1
-17149,M,Creole,-,BELIZE,20,1
-17153,F,Mestizo,-,Cayo,30,1
-17157,M,Mayan,-,BELIZE,22,1
-17163,F,Mestizo,-,Cayo,27,1
-17169,M,Creole,Belmopan City,Cayo,30,1
-17197,M,Mestizo,Belmopan City,Cayo,27,1
-17204,M,Mestizo,BELIZE,BELIZE,55,1
-17205,M,East Indian,Belmopan City,Cayo,30,1
-17220,M,Mestizo,-,Cayo,35,1
-17228,M,Creole,Belmopan City,Cayo,30,1
-17262,M,Mestizo,-,Cayo,30,1
-17288,M,Mestizo,-,Cayo,66,1
-17318,M,Mayan,Belmopan City,Cayo,30,1
-17324,M,Creole,-,Cayo,30,1
-17368,M,Garifuna,Belmopan City,Cayo,66,1
-17387,M,Other,Belmopan City,Cayo,30,1
-17418,M,East Indian,Belmopan City,Cayo,35,1
-17454,M,Mestizo,SAN IGNACIO,Cayo,27,1
-17461,M,Mestizo,ORANGE WALK TOWN,ORANGE WALK,33,1
-17462,M,Creole,BELIZE,BELIZE,10,1
-17463,M,East Indian,Belmopan City,Cayo,66,1
-17464,M,Mestizo,SAN IGNACIO TOWN,Cayo,27,1
-17465,M,Oriental,Belmopan City,Cayo,13,1
-17493,M,Creole,SAN IGNACIO,Cayo,13,1
-17515,M,Creole,BELIZE,BELIZE,,1
-17555,F,Creole,BELIZE,BELIZE,66,1
-17556,M,Creole,Belize City,BELIZE,1,1
-17566,M,Creole,Belmopan City,Cayo,49,1
-17568,F,Creole,BELIZE,BELIZE,29,1
-17570,M,Creole,-,BELIZE,40,1
-17575,M,Creole,Belize,NULL,22,1
-17576,M,Creole,BELIZE,BELIZE,40,1
-17581,M,Creole,BELIZE,BELIZE,20,1
-17591,M,Creole,BELIZE,BELIZE,40,1
-17603,F,Creole,Belize City,BELIZE,40,1
-17640,M,Creole,BELIZE,BELIZE,40,1
-17653,M,Creole,BELIZE,BELIZE,40,1
-17666,M,Garifuna,Belize City,BELIZE,40,1
-17667,M,Mestizo,Belize City,BELIZE,42,1
-17703,F,Mestizo,Belmopan City,Cayo,38,1
-17724,M,Creole,DANGRIGA TOWN,STANN CREEK,25,1
-17759,F,Garifuna,Cayo DISTRICT,Cayo,44,1
-17761,M,Mestizo,-,BELIZE,35,1
-17762,M,Creole,Belmopan City,Cayo,66,1
-17774,M,Mestizo,-,STANN CREEK,25,1
-17802,M,Mayan,Belmopan City,Cayo,45,1
-17833,M,Mestizo,BELIZE,BELIZE,63,1
-17842,M,Other,-,Cayo,36,1
-17850,M,Other,Belmopan City,Cayo,,1
-17854,F,Other,BELMOPAN,Cayo,,1
-17882,M,Mayan,BELIZE,BELIZE,18,1
-17888,M,Mestizo,BELMOPAN,Cayo,30,1
-17904,M,Creole,-,STANN CREEK,25,1
-17936,M,Mayan,-,TOLEDO,36,1
-17945,M,Garifuna,DANGRIGA TOWN,STANN CREEK,25,1
-17975,M,Mestizo,-,COROZAL,28,1
-17981,F,Unknown,-,BELIZE,17,1
-18008,M,Unknown,Belmopan City,Cayo,66,1
-18014,M,Unknown,Belmopan City,Cayo,25,1
-18043,M,Unknown,-,STANN CREEK,59,1
-18052,M,Unknown,-,Cayo,72,1
-18079,M,Unknown,Belmopan City,Cayo,30,1
-18081,M,Unknown,-,TOLEDO,43,1
-18089,M,Ketchi,-,TOLEDO,45,1
-18096,M,Mestizo,Belmopan City,Cayo,13,1
-18100,M,Unknown,-,TOLEDO,45,1
-18114,M,Unknown,Belize City,BELIZE,37,1
-18141,M,Unknown,-,Cayo,27,1
-18171,F,Unknown,-,BELIZE,20,1
-18191,M,Mestizo,Belmopan City,Cayo,30,1
-18219,M,Unknown,-,BELIZE,42,1
-18247,F,Creole,-,TOLEDO,13,1
-18269,F,Unknown,Belmopan City,Cayo,56,1
-18274,M,Unknown,Belmopan City,Cayo,66,1
-18285,M,Unknown,Belmopan City,Cayo,72,1
-18318,M,Unknown,-,Cayo,27,1
-18355,M,Unknown,BELIZE,BELIZE,53,1
-18363,F,Unknown,-,BELIZE,17,1
-18365,M,Unknown,Belmopan City,Cayo,30,1
-18385,M,Unknown,BELMOPAN,Cayo,30,1
-18401,M,Unknown,Belmopan City,Cayo,30,1
-18426,M,Unknown,-,Cayo,27,1
-18439,M,Unknown,-,BELIZE,39,1
-18473,M,Unknown,Belmopan City,Cayo,72,1
-18501,M,Unknown,-,TOLEDO,18,1
-18505,M,East Indian,SAN IGNACIO TOWN,Cayo,27,1
-18533,M,Creole,Belize City,BELIZE,20,1
-18534,F,Unknown,BELMOPAN,Cayo,49,1
-18548,M,Mestizo,-,Cayo,27,1
-18549,M,Unknown,Belmopan City,Cayo,13,1
-18564,M,Unknown,-,Cayo,38,1
-18594,M,Unknown,Belize City,BELIZE,20,1
-18620,F,Unknown,Belmopan City,Cayo,66,1
-18649,M,Mayan,-,BELIZE,53,1
-18659,M,Unknown,-,Cayo,30,1
-18660,M,Unknown,-,BELIZE,42,1
-18662,M,Unknown,BELMOPAN,Cayo,66,1
-18700,M,Unknown,-,BELIZE,40,1
-18734,F,East Indian,-,BELIZE,20,1
-18742,M,Unknown,BELMOPAN,Cayo,13,1
-18768,F,Unknown,-,Cayo,13,1
-18776,M,Unknown,-,Cayo,27,1
-18805,M,Unknown,BELMOPAN,Cayo,30,1
-18806,F,Unknown,SAN IGNACIO,Cayo,13,1
-18813,M,Unknown,SAN PEDRO TOWN,BELIZE,3,1
-18821,M,Unknown,Belize City,BELIZE,70,1
-18826,M,Unknown,-,Cayo,30,1
-18855,M,Unknown,DANGRIGA TOWN,STANN CREEK,13,1
-18871,M,Garifuna,Belmopan City,Cayo,30,1
-18880,F,Unknown,-,BELIZE,56,1
-18897,M,Mestizo,-,STANN CREEK,36,1
-18904,M,Unknown,BELMOPAN,Cayo,13,1
-18913,M,Mestizo,BELMOPAN,Cayo,49,1
-18916,M,Mestizo,-,Cayo,65,1
-18926,M,Unknown,BELMOPAN,Cayo,30,1
-18931,M,Unknown,BELMOPAN,Cayo,30,1
-18936,M,Unknown,-,BELIZE,63,1
-18943,M,Unknown,BELMOPAN,Cayo,10,1
-18959,M,Mestizo,-,Cayo,38,1
-18969,M,Creole,-,Cayo,54,1
-18978,M,Mayan,-,TOLEDO,45,1
-19000,M,Mestizo,Belize City,BELIZE,40,1
-19032,M,Unknown,-,BELIZE,53,1
-19042,M,Mayan,-,TOLEDO,25,1
-19072,F,Creole,-,BELIZE,1,1
-19083,M,Creole,BELIZE,BELIZE,63,1
-19094,M,Mestizo,-,Cayo,27,1
-19136,M,Mestizo,BELMOPAN,BELIZE,30,1
-19156,F,Unknown,-,TOLEDO,36,1
-19165,M,Mestizo,BELMOPAN,Cayo,66,1
-19196,M,Creole,#NAME?,BELIZE,20,1
-19212,M,Unknown,-,Cayo,27,1
-19253,M,Mestizo,-,BELIZE,53,1
-19262,M,Creole,-,BELIZE,37,1
-19298,M,Mestizo,DANGRIGA TOWN,STANN CREEK,25,1
-19325,M,Mestizo,-,Cayo,27,1
-19330,M,Mestizo,-,Cayo,27,1
-19344,M,Mestizo,BENQUE VIEJO TOWN,Cayo,27,1
-19357,M,Mestizo,Belmopan City,Cayo,30,1
-19363,F,Other,Santa Elena Town,Cayo,21,1
-19373,M,Other,-,Cayo,35,1
-19376,F,Garifuna,DANGRIGA TOWN,STANN CREEK,25,1
-19412,M,Other,BELMOPAN,Cayo,66,1
-19444,M,Mestizo,ORANGE WALK TOWN,ORANGE WALK,26,1
-19451,M,Mayan,-,TOLEDO,62,1
-19472,M,Mestizo,-,STANN CREEK,25,1
-19499,M,Mestizo,-,Cayo,38,1
-19529,M,Mestizo,Belize City,BELIZE,20,1
-19542,F,Mestizo,-,Cayo,30,1
-19549,M,Other,Belmopan City,Cayo,30,1
-19575,M,Other,BELMOPAN,Cayo,66,1
-19598,M,Mestizo,BELMOPAN,Cayo,30,1
-19625,M,Mestizo,BELMOPAN,Cayo,30,1
-19633,M,Creole,-,BELIZE,20,1
-19650,M,Mestizo,-,Cayo,32,1
-19676,F,Mestizo,BELMOPAN,Cayo,30,1
-19702,M,Creole,Santa Elena Town,Cayo,27,1
-19716,M,Mestizo,SAN IGNACIO TOWN,Cayo,27,1
-19732,M,Mestizo,BELMOPAN,Cayo,30,1
-19752,M,East Indian,-,TOLEDO,45,1
-19769,M,Mestizo,Santa Elena Town,Cayo,27,1
-19783,M,Mestizo,BENQUE VEJIO TOWN,Cayo,38,1
-19817,F,Creole,Belmopan City,Cayo,30,1
-19845,M,Mestizo,Belmopan City,Cayo,54,1
-19850,F,Mestizo,-,Cayo,38,1
-19893,M,Mestizo,-,Cayo,34,1
-19911,M,Creole,BELMOPAN,Cayo,54,1
-19918,M,Mestizo,Belmopan City,BELIZE,20,1
-19954,M,Creole,-,STANN CREEK,44,1
-19979,M,Mayan,-,Cayo,21,1
-20012,M,Creole,ORANGE WALK TOWN,ORANGE WALK,33,1
-20031,M,Mestizo,-,Cayo,21,1
-20058,M,Mestizo,-,STANN CREEK,25,1
-20065,F,Mestizo,-,Cayo,77,1
-20101,M,Creole,Belize City,BELIZE,40,1
-20127,M,Garifuna,Belmopan City,BELIZE,30,1
-20132,M,Creole,-,Cayo,32,1
-20146,M,Mestizo,Belize City,BELIZE,22,1
-20160,M,Creole,-,BELIZE,54,1
-20176,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,38,1
-20182,M,Mestizo,Belmopan City,Cayo,30,1
-20183,M,Mayan,-,STANN CREEK,36,1
-20215,M,Other,-,STANN CREEK,36,1
-20250,M,Creole,Belize City,BELIZE,20,1
-20258,M,Creole,BELMOPAN,Cayo,21,1
-20295,M,Mestizo,-,Cayo,32,1
-20300,M,Mayan,-,STANN CREEK,36,1
-20310,M,Mestizo,BELMOPAN,Cayo,30,1
-20345,F,Creole,Belmopan City,Cayo,30,1
-20378,M,Mestizo,Santa Elena Town,Cayo,27,1
-20407,M,Ketchi,BELMOPAN,Cayo,45,1
-20424,M,Mestizo,-,Cayo,66,1
-20437,M,Creole,-,Cayo,30,1
-20438,F,Creole,BELMOPAN,Cayo,66,1
-20482,M,Mestizo,-,Cayo,24,1
-20483,M,Creole,SAN IGNACIO TOWN,Cayo,27,1
-20520,M,Mestizo,BELMOPAN,Cayo,30,1
-20562,M,Mestizo,-,ORANGE WALK,28,1
-20586,M,Creole,-,BELIZE,20,1
-20592,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,38,1
-20601,M,Mayan,-,STANN CREEK,36,1
-20626,M,Mestizo,SAN PEDRO,BELIZE,39,1
-20627,M,Mestizo,-,BELIZE,10,1
-20660,M,Mestizo,STANN CREEK,STANN CREEK,36,1
-20668,M,Garifuna,DANGRIGA TOWN,STANN CREEK,2,1
-20675,M,Mestizo,BELMOPAN,Cayo,30,1
-20710,F,East Indian,DANGRIGA,STANN CREEK,25,1
-20725,M,Creole,PUNTA GORDA TOWN,TOLEDO,18,1
-20742,F,Other,DANGRIGA TOWN,STANN CREEK,25,1
-20782,F,Mestizo,BELMOPAN,Cayo,30,1
-20809,M,Mayan,-,STANN CREEK,59,1
-20821,M,Mestizo,Belmopan City,Cayo,65,1
-20831,F,Mestizo,-,Cayo,77,1
-20849,M,Mayan,Belmopan City,Cayo,30,1
-20858,F,Mayan,Belmopan City,Cayo,35,1
-20888,M,Mestizo,-,Cayo,35,1
-20912,F,Mestizo,Belmopan City,Cayo,30,1
-20934,M,Creole,Belize City,BELIZE,20,1
-20936,M,Mestizo,BELMOPAN,Cayo,30,1
-20969,M,Mestizo,DANGRIGA TOWN,STANN CREEK,25,1
-21005,M,Creole,Belize City,BELIZE,10,1
-21023,M,Mestizo,PUNTA GORDA TOWN,TOLEDO,45,1
-21029,M,Mestizo,BELMOPAN,Cayo,30,1
-21039,M,Creole,BELMOPAN,Cayo,30,1
-21049,F,Mestizo,BELMOPAN,Cayo,27,1
-21080,M,Mayan,BELMOPAN,Cayo,30,1
-21112,M,Mayan,PUNTA GORDA TOWN,TOLEDO,45,1
-21144,M,Other,PUNTA GORDA TOWN,TOLEDO,45,1
-21171,M,Mayan,BELMOPAN,Cayo,30,1
-21185,F,Mestizo,SAN IGNACIO TOWN,Cayo,27,1
-21212,F,Creole,-,STANN CREEK,25,1
-21217,F,Mestizo,Belize City,BELIZE,63,1
-21226,M,Mestizo,-,Cayo,30,1
-21262,M,Mestizo,SAN IGNACIO TOWN,Cayo,30,1
-21274,F,East Indian,-,BELIZE,17,1
-21289,M,Creole,-,Cayo,21,1
-21291,M,Other,Belize City,BELIZE,20,1
-21323,M,Creole,Belize City,BELIZE,20,1
-21358,F,Creole,Belize City,BELIZE,22,1
-21370,M,Creole,-,STANN CREEK,6,1
-21387,M,Creole,Belize City,BELIZE,20,1
-21420,F,Creole,Belize City,BELIZE,37,1
-21425,F,Creole,Belize City,BELIZE,22,1
-21431,M,Creole,Belize City,BELIZE,10,1
-21435,M,Creole,Belize City,BELIZE,20,1
-21456,M,Garifuna,-,STANN CREEK,25,1
-21464,M,Creole,-,Cayo,30,1
-21500,M,Creole,-,STANN CREEK,36,1
-21509,M,Mestizo,BELMOPAN,Cayo,51,1
-21539,M,Mestizo,BELMOPAN,Cayo,51,1
-21570,M,Mestizo,BELMOPAN,Cayo,30,1
-21597,M,Mestizo,BELMOPAN,Cayo,66,1
-21618,M,Mestizo,Belize City,BELIZE,87,1
-21629,M,Mestizo,-,Cayo,35,1
-21635,M,Garifuna,DANGRIGA TOWN,STANN CREEK,25,1
-21673,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,27,1
-21681,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,27,1
-21712,M,Creole,BELMOPAN,Cayo,30,1
-21741,M,Mestizo,-,STANN CREEK,25,1
-21779,M,Creole,Belize City,BELIZE,20,1
-21780,F,Garifuna,Belize City,BELIZE,20,1
-21792,M,Mestizo,SPANISH LOOKOUT,Cayo,21,1
-21797,M,East Indian,PUNTA GORDA TOWN,TOLEDO,10,1
-21811,M,Garifuna,DANGRIGA TOWN,STANN CREEK,25,1
-21852,M,Mestizo,ORANGE WALK TOWN,ORANGE WALK,16,1
-21888,F,Mestizo,-,ORANGE WALK,26,1
-21918,M,Creole,-,BELIZE,20,1
-21924,M,Mestizo,-,ORANGE WALK,28,1
-21935,M,Mestizo,Santa Elena Town,Cayo,21,1
-21947,M,Creole,DANGRIGA TOWN,STANN CREEK,25,1
-21954,F,Mestizo,BELMOPAN,Cayo,54,1
-21960,M,Creole,-,Cayo,30,1
-21961,M,Mestizo,-,Cayo,21,1
-21973,M,Mestizo,-,STANN CREEK,36,1
-21998,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,32,1
-22025,F,Creole,ORANGE WALK TOWN,ORANGE WALK,47,1
-22039,M,Mestizo,BELMOPAN,Cayo,30,1
-22065,M,Unknown,-,Cayo,32,1
-22096,F,Mestizo,-,Cayo,21,1
-22106,M,Garifuna,BELMOPAN,Cayo,66,1
-22113,M,Creole,Santa Elena Town,Cayo,27,1
-22143,M,Ketchi,-,TOLEDO,45,1
-22148,M,Creole,Santa Elena Town,Cayo,27,1
-22149,M,Mestizo,-,Cayo,13,1
-22157,F,Mestizo,-,Cayo,27,1
-22187,F,Creole,BELMOPAN,Cayo,27,1
-22205,F,Mestizo,PUNTA GORDA TOWN,TOLEDO,45,1
-22214,F,Garifuna,PUNTA GORDA TOWN,TOLEDO,45,1
-22221,M,Creole,-,STANN CREEK,25,1
-22235,M,Mayan,Belmopan City,Cayo,30,1
-22240,F,Creole,Belize City,BELIZE,56,1
-22248,M,Mestizo,-,COROZAL,52,1
-22277,M,Creole,BELMOPAN,Cayo,49,1
-22279,M,Mestizo,-,BELIZE,20,1
-22282,M,Mayan,-,TOLEDO,18,1
-22297,M,East Indian,PUNTA GORDA TOWN,TOLEDO,45,1
-22326,M,Mestizo,DANGRIGA TOWN,STANN CREEK,25,1
-22337,F,Other,PUNTA GORDA TOWN,TOLEDO,45,1
-22368,M,Mayan,PUNTA GORDA TOWN,TOLEDO,18,1
-22377,M,Ketchi,-,TOLEDO,18,1
-22411,F,Mayan,-,TOLEDO,62,1
-22417,M,Mestizo,BELMOPAN,Cayo,72,1
-22443,M,Mestizo,BELMOPAN,Cayo,66,1
-22449,M,Creole,BELMOPAN,Cayo,54,1
-22479,M,Mestizo,BELMOPAN,Cayo,66,1
-22509,M,Mayan,-,Cayo,27,1
-22539,M,Other,Belmopan City,Cayo,54,1
-22550,M,Creole,BELMOPAN,Cayo,30,1
-22584,F,Other,BELMOPAN,Cayo,30,1
-22608,M,Mestizo,BELMOPAN,Cayo,66,1
-22618,F,Creole,-,BELIZE,22,1
-22622,M,Unknown,Belize City,BELIZE,42,1
-22631,M,Mestizo,-,STANN CREEK,25,1
-22638,M,Other,BENQUE VIEJO DEL CARMEN,Cayo,38,1
-22677,M,Creole,Santa Elena Town,Cayo,21,1
-22686,M,Other,BELMOPAN,Cayo,30,1
-22691,M,Other,BELMOPAN,Cayo,72,1
-22702,M,Mestizo,-,Cayo,27,1
-22704,F,Creole,-,Cayo,54,1
-22722,M,Other,DANGRIGA TOWN,STANN CREEK,25,1
-22752,M,Creole,SAN PEDRO TOWN,BELIZE,39,1
-22762,M,Unknown,BELMOPAN,Cayo,30,1
-22767,M,Creole,BELMOPAN,Cayo,49,1
-22777,M,Mestizo,-,Cayo,38,1
-22796,F,Creole,Santa Elena Town,Cayo,27,1
-22820,M,Mestizo,Belize City,BELIZE,63,1
-22835,M,Mestizo,SAN IGNACIO TOWN,Cayo,36,1
-22850,M,Creole,Belize City,BELIZE,20,1
-22861,M,Mestizo,-,BELIZE,10,1
-22887,M,Other,-,STANN CREEK,25,1
-22910,M,Mestizo,-,ORANGE WALK,28,1
-22921,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,11,1
-22940,M,Garifuna,-,STANN CREEK,36,1
-22968,M,Garifuna,-,STANN CREEK,36,1
-22996,M,Creole,ORANGE WALK TOWN,ORANGE WALK,16,1
-23003,F,Other,BELMOPAN,Cayo,49,1
-23005,M,Mestizo,-,STANN CREEK,25,1
-23032,F,Creole,-,BELIZE,48,1
-23042,M,Garifuna,PUNTA GORDA TOWN,TOLEDO,45,1
-23044,M,Other,BELMOPAN,Cayo,66,1
-23051,F,Ketchi,PUNDA GORDA TOWN,TOLEDO,45,1
-23061,M,Creole,-,STANN CREEK,25,1
-23071,M,Mestizo,BELMOPAN,Cayo,30,1
-23089,F,Creole,-,STANN CREEK,25,1
-23097,M,Mayan,-,TOLEDO,45,1
-23109,M,Mestizo,-,Cayo,24,1
-23115,M,African,BELMOPAN,Cayo,30,1
-23125,M,Other,Belmopan City,Cayo,,1
-23149,M,Mestizo,ORANGE WALK TOWN,ORANGE WALK,28,1
-23162,M,Mestizo,Santa Elena Town,Cayo,27,1
-23174,F,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,32,1
-23199,M,Mestizo,SAN IGNACIO TOWN,Cayo,27,1
-23211,M,Mestizo,-,Cayo,65,1
-23217,F,Creole,BELIZE,BELIZE,17,1
-23248,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,21,1
-23268,F,Other,BELMOPAN,Cayo,54,1
-23300,M,Mestizo,BELMOPAN,Cayo,66,1
-23330,F,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,27,1
-23332,F,East Indian,SAN IGNACIO TOWN,Cayo,27,1
-23344,M,Mestizo,BELMOPAN,Cayo,66,1
-23372,F,Creole,Santa Elena Town,Cayo,50,1
-23388,M,East Indian,-,Cayo,30,1
-23406,M,Mestizo,Belmopan City,Cayo,54,1
-23431,M,Mestizo,BELMOPAN,Cayo,54,1
-23437,M,Mestizo,BELMOPAN,Cayo,66,1
-23468,M,Creole,BELMOPAN,Cayo,30,1
-23476,M,Creole,Belmopan City,Cayo,66,1
-23490,F,Creole,Belize City,BELIZE,20,1
-23503,M,Other,BELMOPAN,Cayo,10,1
-23527,F,Creole,BELMOPAN,Cayo,30,1
-23533,M,Other,-,Cayo,30,1
-23564,M,Mestizo,BELMOPAN,Cayo,30,1
-23565,M,Mestizo,Belmopan City,Cayo,30,1
-23600,M,Creole,-,BELIZE,20,1
-23609,M,Other,-,STANN CREEK,36,1
-23610,F,Creole,Belize City,BELIZE,17,1
-23617,F,Mestizo,Belize City,BELIZE,22,1
-23638,M,Mestizo,Belize City,BELIZE,42,1
-23666,F,Creole,-,BELIZE,56,1
-23687,M,Garifuna,-,STANN CREEK,25,1
-23695,F,Creole,-,Cayo,24,1
-23725,M,Mestizo,COROZAL TOWN,COROZAL,13,1
-23732,M,Other,-,TOLEDO,45,1
-23764,F,Other,-,TOLEDO,10,1
-23787,M,Mayan,PUNTA GORDA TOWN,TOLEDO,45,1
-23817,M,Other,PUNTA GORDA TOWN,TOLEDO,45,1
-23849,M,Creole,Belize City,BELIZE,42,1
-23855,M,Garifuna,-,BELIZE,10,1
-23856,M,Creole,PUNTA GORDA TOWN,TOLEDO,40,1
-23885,M,Other,Belize City,BELIZE,10,1
-23892,M,Mestizo,-,Cayo,27,1
-23919,M,Mestizo,-,Cayo,66,1
-23921,F,Creole,-,BELIZE,10,1
-23933,M,Garifuna,Belize City,BELIZE,6,1
-23963,M,Creole,Teakettle village,Cayo,30,1
-23972,M,Mestizo,Belize City,BELIZE,10,1
-24001,M,Mestizo,SAN IGNACIO,Cayo,28,1
-24028,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,32,1
-24060,M,Creole,Belize City,BELIZE,23,1
-24061,M,Mestizo,-,ORANGE WALK,71,1
-24072,M,Mestizo,Belmopan City,Cayo,30,1
-24086,F,Other,BELMOPAN,Cayo,30,1
-24093,M,Other,DANGRIGA TOWN,STANN CREEK,25,1
-24121,M,Mestizo,SANTA ELENA,Cayo,21,1
-24146,F,Mestizo,Belize City,BELIZE,17,1
-24167,M,Mestizo,BELMOPAN,Cayo,30,1
-24173,M,Mayan,-,Cayo,30,1
-24179,F,Mayan,-,TOLEDO,62,1
-24187,M,Other,SAN IGNACIO TOWN,BELIZE,27,1
-24191,M,Mestizo,DANGRIGA TOWN,STANN CREEK,2,1
-24194,M,Mestizo,Belize City,BELIZE,20,1
-24222,F,Creole,Belize City,Belize District,17,1
-24226,M,Mestizo,BELMOPAN,Cayo,30,1
-24245,M,Other,BELMOPAN,Cayo,35,1
-24265,M,Creole,Belize City,BELIZE,33,1
-24287,F,Ketchi,CITY OF BELMOPAN,Cayo,30,1
-24294,M,Creole,ORANGE WALK TOWN,ORANGE WALK,33,1
-24315,M,Mestizo,ORANGE WALK TOWN,ORANGE WALK,33,1
-24330,F,Creole,-,Cayo,50,1
-24358,M,Mestizo,-,BELIZE,20,1
-24365,M,Mestizo,-,BELIZE,17,1
-24369,M,Ketchi,BELMOPAN,Cayo,18,1
-24396,M,Creole,Belize City,BELIZE,40,1
-24407,F,Mestizo,BELMOPAN,Cayo,66,1
-24412,M,Mestizo,PUNTA GORDA TOWN,TOLEDO,81,1
-24420,M,Creole,-,BELIZE,56,1
-24432,M,Creole,BELMOPAN,Cayo,66,1
-24443,F,Mestizo,-,Cayo,38,1
-24456,M,Mestizo,ORANGE WALK TOWN,ORANGE WALK,16,1
-24485,F,Garifuna,Belize City,BELIZE,10,1
-24509,F,Garifuna,LADYVILLE,BELIZE,20,1
-24528,F,Mestizo,-,Cayo,35,1
-24556,F,Mestizo,BELMOPAN,Cayo,54,1
-24558,M,Oriental,-,STANN CREEK,58,1
-24571,F,Mayan,-,ORANGE WALK,81,1
-24582,M,Creole,BELMOPAN,Cayo,30,1
-24610,M,Creole,ORANGE WALK TOWN,ORANGE WALK,7,1
-24637,F,Mestizo,-,Cayo,30,1
-24659,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,38,1
-24672,M,Creole,BELMOPAN,Cayo,66,1
-24688,M,Mestizo,-,Cayo,30,1
-24696,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,27,1
-24723,M,Mestizo,Santa Elena Town,Cayo,5,1
-24736,F,Mestizo,-,Cayo,30,1
-24755,M,Mestizo,Belize City,BELIZE,19,1
-24761,M,Mayan,BENQUE VIEJO DEL CARMEN,Cayo,38,1
-24788,M,Mestizo,-,Cayo,27,1
-24814,M,Oriental,ORANGE WALK ROAD,ORANGE WALK,20,1
-24827,M,Mestizo,-,Cayo,30,1
-24832,M,Garifuna,DANGRIGA,STANN CREEK,2,1
-24835,M,Creole,-,TOLEDO,45,1
-24858,M,Mayan,-,TOLEDO,18,1
-24883,F,Creole,Belize City,BELIZE,22,1
-24889,M,Creole,-,COROZAL,7,1
-24913,F,Other,Santa Elena Town,Cayo,21,1
-24936,M,Other,-,Cayo,38,1
-24939,M,Creole,BELMOPAN,Cayo,13,1
-24950,M,East Indian,BELMOPAN,Cayo,66,1
-24955,M,Mestizo,ORANGE WALK TOWN,ORANGE WALK,33,1
-24963,M,Mestizo,CITY OF BELMOPAN,Cayo,30,1
-24972,M,Mestizo,-,BELIZE,53,1
-24983,M,Ketchi,-,TOLEDO,45,1
-24989,F,Mayan,PUNTA GORDA TOWN,TOLEDO,45,1
-25005,F,Creole,-,BELIZE,20,1
-25012,F,Mestizo,-,BELIZE,63,1
-25026,M,Creole,BELMOPAN,Cayo,28,1
-25043,M,Creole,Belize City,Belize District,10,1
-25054,M,Mayan,BELMOPAN,Cayo,,1
-25064,F,Other,-,ORANGE WALK,83,1
-25081,M,Creole,Belize City,BELIZE,63,1
-25083,M,Mayan,-,Cayo,21,1
-25095,M,Mestizo,BELMOPAN,Cayo,66,1
-25109,M,Mestizo,-,COROZAL,72,1
-25120,M,Mestizo,Belmopan City,Cayo,72,1
-25134,M,Mestizo,-,TOLEDO,25,1
-25148,F,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,32,1
-25163,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,38,1
-25177,M,Creole,-,BELIZE,53,1
-25191,M,Mestizo,-,BELIZE,53,1
-25199,M,Creole,Belize City,BELIZE,37,1
-25202,F,Creole,Belmopan City,Cayo,30,1
-25215,M,Mestizo,BELMOPAN,Cayo,54,1
-25229,M,Creole,-,STANN CREEK,25,1
-25231,M,Mayan,-,TOLEDO,81,1
-25244,M,Mestizo,-,BELIZE,20,1
-25251,M,African,KANO CITY,Kano state,,1
-25253,M,Creole,-,STANN CREEK,36,1
-25264,M,Creole,Belmopan City,BELIZE,20,1
-25275,M,Creole,DANGRIGA TOWN,STANN CREEK,25,1
-25281,M,Mestizo,SAN IGNACIO,Cayo,11,1
-25285,M,Mestizo,Belmopan City,Cayo,38,1
-25290,M,Mestizo,-,Cayo,54,1
-25297,F,Garifuna,-,Cayo,30,1
-25311,M,Creole,Belize City,BELIZE,42,1
-25321,M,Creole,-,STANN CREEK,36,1
-25336,M,East Indian,-,TOLEDO,36,1
-25348,M,Mestizo,Belmopan City,Cayo,30,1
-25354,M,Mestizo,-,STANN CREEK,2,1
-25365,M,Mestizo,PUNTA GORDA TOWN,TOLEDO,45,1
-25378,M,Creole,BELMOPAN,Cayo,30,1
-25382,M,Creole,-,BELIZE,63,1
-25390,M,Mestizo,Santa Elena Town,Cayo,21,1
-25398,F,Mayan,Belmopan City,Cayo,28,1
-25409,F,Mestizo,SAN IGNACIO TOWN,Cayo,27,1
-25421,F,Creole,-,BELIZE,22,1
-25428,M,Other,SAN IGNACIO,Cayo,27,1
-25442,M,Mayan,-,STANN CREEK,25,1
-25444,M,Mestizo,BELMOPAN,Cayo,30,1
-25452,F,Mestizo,Belize City,BELIZE,22,1
-25457,F,Creole,BELMOPAN,Cayo,30,1
-25464,M,Mayan,PUNTA GORDA TOWN,TOLEDO,62,1
-25470,F,East Indian,PUNTA GORDA TOWN,TOLEDO,45,1
-25481,F,Mayan,-,TOLEDO,18,1
-25687,F,Unknown,Belize City,BELIZE,13,1
-25743,F,Garifuna,PUNTA GORDA,TOLEDO,13,1
+student_id,gender,ethnicity,city,district,school_id,Program ID
+1,F,Creole,Belmopan City,Cayo,12,AAGR
+4,F,Creole,Belize City,BELIZE,12,AARC
+89,M,Creole,Belize City,BELIZE,13,ABCB
+113,M,Creole,Belmopan City,Cayo,13,ABCE
+551,M,Mestizo,BELMOPAN,Cayo,13,ABCM
+639,M,Creole,Cayo,BELIZE,30,ABIO
+653,M,Creole,Belize City,BELIZE,13,ABMB
+749,M,East Indian,Santa Elena Town,Cayo,13,ABMP
+1217,F,Mestizo,Cayo,Cayo,10,ACHE
+1303,M,Garifuna,DANGRIGA TOWN,STANN CREEK,13,ACMB
+1353,M,East Indian,CAMALOTE VILLAGE,Cayo,30,ACMP
+1652,M,Creole,Belmopan City,Cayo,51,AINT
+2030,F,Other,Cayo,Cayo,11,AMAB
+2077,M,Creole,Belize City,BELIZE,22,AMAP
+2158,M,Garifuna,Belmopan City,Cayo,25,AMAT
+2515,M,Mestizo,ORANGE WALK,ORANGE WALK,10,AMEE
+2694,M,Creole,-,Cayo,11,ANRM
+2788,M,Creole,Belmopan City,Cayo,13,AENG
+2792,M,Creole,Belmopan City,Cayo,13,APRE
+3136,M,Creole,Belize City,BELIZE,10,AECE
+3301,M,Mestizo,Belize City,BELIZE,,ABUS
+3573,M,Mayan,ROARING CREEK VILLAGE,Cayo,30,ATOS
+3593,F,Mestizo,COROZAL TOWN,COROZAL,10,AAGR
+3641,M,Creole,INDEPENDENCE VILLAGE,STANN CREEK,13,AARC
+3845,F,Mestizo,Belmopan City,Cayo,33,ABCB
+3864,M,Creole,LADYVILLE VILLAGE,BELIZE,,ABCE
+3874,M,Creole,Belize City,BELIZE,13,ABCM
+3880,F,Creole,PUNTA GORDA,TOLEDO,10,ABIO
+4258,M,Creole,Belize City,BELIZE,10,ABMB
+4369,M,Creole,DANGRIGA TOWN,STANN CREEK,13,ABMP
+4395,M,Ketchi,Belmopan City,Cayo,13,ACHE
+4396,F,Garifuna,PUNTA GORDA,TOLEDO,13,ACMB
+4407,M,Other,Belize City,BELIZE,,ACMP
+4446,F,Other,Belmopan City,Cayo,13,AINT
+4484,M,Mestizo,,Cayo,13,AMAB
+4508,F,Garifuna,PUNTA GORDA,TOLEDO,,AMAP
+4518,M,Creole,Belmopan City,Cayo,13,AMAT
+4538,M,Oriental,Belize City,BELIZE,58,AMEE
+4566,M,Mestizo,Belmopan City,Cayo,7,ANRM
+4584,M,Creole,Belize City,BELIZE,13,AENG
+4602,M,Mayan,Belmopan City,Cayo,30,APRE
+4639,M,Mestizo,Belmopan City,Cayo,30,AECE
+4672,F,Mestizo,,BELIZE,27,ABUS
+4699,M,Creole,-,Cayo,22,ATOS
+4706,M,Creole,Belmopan City,Cayo,13,AAGR
+4716,M,Mestizo,BELMOPAN,Cayo,13,AARC
+4751,M,Mestizo,-,BELIZE,20,ABCB
+4758,M,Garifuna,Belmopan City,Cayo,36,ABCE
+4788,M,Creole,Belize City,BELIZE,10,ABCM
+4798,F,East Indian,LADYVILLE VILLAGE,BELIZE,12,ABIO
+4818,M,Creole,Belize City,BELIZE,20,ABMB
+4829,M,Mestizo,Belize City,BELIZE,40,ABMP
+4859,F,Creole,Belize City,BELIZE,10,ACHE
+4869,M,Mestizo,SAN NARCISO VILLAGE,COROZAL,28,ACMB
+4880,M,Creole,INDEPENDENCE VILLAGE,STANN CREEK,36,ACMP
+4920,F,Garifuna,Belize City,BELIZE,13,AINT
+4929,M,Ketchi,Belmopan City,Cayo,45,AMAB
+4934,M,Garifuna,COROZAL DISTRICT,COROZAL,72,AMAP
+4963,F,Oriental,DANGRIGA TOWN,STANN CREEK,25,AMAT
+4987,M,Creole,Belmopan City,Cayo,30,AMEE
+5016,M,Creole,Belize City,BELIZE,10,ANRM
+5031,M,Garifuna,Belize City,BELIZE,40,AENG
+5055,M,Mayan,TOLEDO DISTRICT,TOLEDO,13,APRE
+5091,M,Mestizo,,Cayo,27,AECE
+5116,M,Creole,Belmopan City,Cayo,13,ABUS
+5125,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,32,ATOS
+5142,F,Creole,ROARING CREEK VILLAGE,Cayo,30,AAGR
+5148,M,Mayan,ROARING CREEK VILLAGE,Cayo,10,AARC
+5165,M,Mestizo,ORANGE WALK TOWN,ORANGE WALK,71,ABCB
+5167,M,Mestizo,Belmopan City,Cayo,13,ABCE
+5181,F,Mestizo,SANTA ELENA,Cayo,27,ABCM
+5207,M,Mestizo,BULLET TREE FALLS,Cayo,21,ABIO
+5237,F,Creole,DANGRIGA TOWN,STANN CREEK,25,ABMB
+5261,M,Oriental,Belmopan City,Cayo,,ABMP
+5265,F,Creole,Belmopan City,Cayo,30,ACHE
+5287,M,Oriental,BENQUE VIEJO DEL CARMEN,Cayo,13,ACMB
+5320,F,Oriental,Belmopan City,Cayo,13,ACMP
+5337,F,Mestizo,Belmopan City,Cayo,30,AINT
+5359,M,Oriental,ORANGE WALK,ORANGE WALK,10,AMAB
+5385,F,Creole,Belmopan City,Cayo,13,AMAP
+5388,M,Creole,CAMALOTE VILLAGE,Cayo,6,AMAT
+5394,M,Creole,Belize City,BELIZE,10,AMEE
+5400,F,Creole,Belmopan City,Cayo,13,ANRM
+5455,M,Mestizo,Belize City,BELIZE,,AENG
+5464,M,Garifuna,Belize City,BELIZE,22,APRE
+5483,M,Creole,HATTIEVILLE VILLAGE,BELIZE,20,AECE
+5501,M,Other,Belize City,BELIZE,10,ABUS
+5523,M,Creole,Belize City,BELIZE,,ATOS
+5529,M,Mestizo,ORANGE WALK TOWN,ORANGE WALK,,AAGR
+5546,F,Creole,,ORANGE WALK,,AARC
+5555,M,Mestizo,ORANGE WALK TOWN,ORANGE WALK,,ABCB
+5570,M,Creole,Belize City,BELIZE,10,ABCE
+5576,F,Mayan,TOLEDO DISTRICT,TOLEDO,18,ABCM
+5595,F,Mayan,TOLEDO DISTRICT,TOLEDO,,ABIO
+5606,M,Garifuna,Belize City,BELIZE,,ABMB
+5616,M,Other,Belize City,BELIZE,,ABMP
+5642,M,Mestizo,,ORANGE WALK,13,ACHE
+5661,M,Other,Belmopan City,Cayo,,ACMB
+5686,M,Creole,Belmopan City,Cayo,,ACMP
+5696,F,Mestizo,Belmopan City,Cayo,49,AINT
+5702,M,Creole,Belmopan City,Cayo,30,AMAB
+5713,M,Unknown,Belmopan City,Cayo,,AMAP
+5735,M,Mestizo,Belmopan City,Cayo,,AMAT
+5763,M,Mestizo,Cayo,Cayo,21,AMEE
+5800,M,Creole,Belize City,BELIZE,22,ANRM
+5819,M,Oriental,ORANGE WALK TOWN,ORANGE WALK,,AENG
+5826,F,Creole,INDEPENDENCE VILLAGE,STANN CREEK,,APRE
+5833,F,Creole,INDEPENDENCE VILLAGE,STANN CREEK,,AECE
+5845,M,Creole,Belmopan City,Cayo,30,ABUS
+5874,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,,ATOS
+5900,M,Garifuna,Belmopan City,Cayo,13,
+5923,M,Mestizo,Belmopan City,Cayo,30,AAGR
+5948,M,Oriental,COROZAL,COROZAL,51,AARC
+5973,M,Oriental,Belmopan City,Cayo,,ABCB
+5976,M,Mestizo,Cayo,BELIZE,,ABCE
+5987,M,Mestizo,Belmopan City,Cayo,,ABCM
+6013,M,Creole,INDEPENDENCE VILLAGE,STANN CREEK,,ABIO
+6018,M,East Indian,STANN CREEK DISTRICT,STANN CREEK,10,ABMB
+6069,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,13,ABMP
+6081,F,Mestizo,SAN IGNACIO,Cayo,13,ACHE
+6096,F,Mestizo,SAN IGNACIO,Cayo,13,ACMB
+6111,M,Creole,Belize City,BELIZE,10,ACMP
+6128,M,Other,Belize City,BELIZE,,AINT
+6153,M,Garifuna,Belize City,BELIZE,10,AMAB
+6191,M,Other,Belize City,BELIZE,,AMAP
+6195,M,East Indian,Belize City,BELIZE,12,AMAT
+6229,F,Creole,Cayo,BELIZE,27,AMEE
+6243,M,Creole,Belmopan City,Cayo,10,ANRM
+6260,M,Mestizo,ORANGE WALK,ORANGE WALK,71,AENG
+6287,F,Oriental,Belize City,BELIZE,,APRE
+6300,F,Creole,CAMALOTE VILLAGE,Cayo,30,AECE
+6309,M,Garifuna,Cayo,BELIZE,,ABUS
+6316,F,Creole,SANTA ELENA,Cayo,84,ATOS
+6321,M,Caucasian,Belmopan City,Cayo,30,AAGR
+6332,M,Mestizo,Belmopan City,Cayo,38,AARC
+6366,F,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,13,ABCB
+6373,M,Mayan,TOLEDO,BELIZE,45,ABCE
+6404,M,Mestizo,ORANGE WALK,ORANGE WALK,26,ABCM
+6423,M,Creole,Belize City,BELIZE,20,ABIO
+6461,F,Creole,Belize City,BELIZE,22,ABMB
+6467,M,Creole,Belize City,BELIZE,20,ABMP
+6498,M,Mestizo,SAN IGNACIO,Cayo,63,ACHE
+6524,F,Creole,ORANGE WALK,ORANGE WALK,33,ACMB
+6554,F,Creole,SAN PEDRO TOWN,BELIZE,67,ACMP
+6591,M,Mestizo,ORANGE WALK,ORANGE WALK,13,AINT
+6599,F,Mestizo,-,STANN CREEK,2,AMAB
+6611,F,Mestizo,NULL,NULL,13,AMAP
+6623,M,Creole,SANTA ELENA,Cayo,27,AMAT
+6666,M,Garifuna,DANGRIGA TOWN,STANN CREEK,25,AMEE
+6672,M,Mestizo,-,Cayo,13,ANRM
+6674,M,Creole,Belize City,BELIZE,63,AENG
+6713,M,Creole,Belize City,BELIZE,40,APRE
+6720,M,Oriental,Belmopan City,Cayo,49,AECE
+6743,M,Garifuna,DANGRIGA TOWN,STANN CREEK,13,ABUS
+6756,M,Creole,Belmopan City,Cayo,30,ATOS
+6762,M,Other,Belmopan City,Cayo,30,AAGR
+6793,M,Other,Belmopan City,Cayo,13,AARC
+6816,M,East Indian,BELMOPAN,Cayo,30,ABCB
+6848,M,Mestizo,Belmopan City,Cayo,,ABCE
+6853,F,Mestizo,SANTA ELENA,Cayo,27,ABCM
+6880,M,Mayan,Belmopan City,Cayo,49,ABIO
+6887,F,Garifuna,STANN CREEK,STANN CREEK,36,ABMB
+6896,M,Creole,Cayo,BELIZE,30,ABMP
+6904,M,Oriental,Belmopan City,Cayo,49,ACHE
+6934,M,Creole,JANE USHER AREA,BELIZE,13,ACMB
+6960,M,Mayan,Belmopan City,Cayo,72,ACMP
+7018,F,East Indian,PUNTA GORDA,TOLEDO,10,AINT
+7020,M,Caucasian,Belmopan City,Cayo,49,AMAB
+7026,M,Creole,PUNTA GORDA,TOLEDO,13,AMAP
+7065,M,Other,Belize City,BELIZE,20,AMAT
+7079,M,Garifuna,Belize City,BELIZE,48,AMEE
+7090,M,Creole,STANN CREEK DISTRICT,BELIZE,30,ANRM
+7096,M,Mestizo,ORANGE WALK,ORANGE WALK,47,AENG
+7126,M,Creole,LORDS BANK VILLAGE,BELIZE,22,APRE
+7135,M,Mestizo,Belmopan City,Cayo,30,AECE
+7186,F,Mestizo,,BELIZE,32,ABUS
+7217,F,Mestizo,ORANGE WALK TOWN,ORANGE WALK,33,ATOS
+7226,F,Mestizo,SAN IGNACIO,Cayo,27,AAGR
+7253,M,Creole,Belmopan City,Cayo,30,AARC
+7258,M,Mestizo,Belmopan City,Cayo,13,ABCB
+7293,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,32,ABCE
+7335,F,Mayan,-,TOLEDO,18,ABCM
+7340,M,Mestizo,-,COROZAL,13,ABIO
+7407,M,Mestizo,TOLEDO DISTRICT,TOLEDO,18,ABMB
+7424,M,Mayan,TOLEDO,TOLEDO,45,ABMP
+7430,M,Creole,Belize City,BELIZE,13,ACHE
+7439,F,Ketchi,STANN CREEK,STANN CREEK,36,ACMB
+7448,M,Creole,Belize City,BELIZE,12,ACMP
+7452,F,Creole,Belize City,BELIZE,20,AINT
+7457,M,Mayan,PUNTA GORDA,TOLEDO,45,AMAB
+7467,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,11,AMAP
+7477,M,Other,ORANGE WALK TOWN,ORANGE WALK,58,AMAT
+7492,M,Mestizo,BELMOPAN,Cayo,47,AMEE
+7505,M,Creole,Belize City,BELIZE,22,ANRM
+7512,M,Creole,Belize City,BELIZE,48,AENG
+7535,M,Creole,Belmopan City,Cayo,72,APRE
+7575,M,Mestizo,LADYVILLE VILLAGE,BELIZE,37,AECE
+7581,M,Creole,DANGRIGA TOWN,STANN CREEK,25,ABUS
+7631,M,Creole,INDEPENDENCE VILLAGE,STANN CREEK,36,ATOS
+7662,M,Oriental,Belmopan City,Cayo,13,AAGR
+7687,M,Oriental,ORANGE WALK TOWN,ORANGE WALK,13,AARC
+7707,M,Creole,SANTA ELENA,Cayo,13,ABCB
+7710,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,32,ABCE
+7746,F,Mestizo,Belmopan City,Cayo,30,ABCM
+7755,F,Mestizo,SAN IGNACIO,Cayo,27,ABIO
+7770,M,Oriental,Belmopan City,Cayo,30,ABMB
+7800,M,Mestizo,Belize City,BELIZE,37,ABMP
+7842,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,27,ACHE
+7869,M,Creole,DANGRIGA TOWN,STANN CREEK,25,ACMB
+7902,F,Creole,Belmopan City,Cayo,30,ACMP
+7914,M,Creole,LADYVILLE VILLAGE,BELIZE,20,AINT
+7950,F,Creole,Belize City,BELIZE,48,AMAB
+7962,M,Mestizo,Belmopan City,Cayo,30,AMAP
+7973,F,Creole,Belmopan City,Cayo,30,AMAT
+8005,M,Mestizo,Belmopan City,Cayo,30,AMEE
+8013,F,Other,COROZAL TOWN,COROZAL,7,ANRM
+8016,M,Mestizo,Belize City,BELIZE,12,AENG
+8026,M,Creole,Belize City,BELIZE,42,APRE
+8062,F,Creole,Belize City,BELIZE,56,AECE
+8067,F,Mestizo,DOUGLAS VILLAGE,ORANGE WALK,2,ABUS
+8073,M,Creole,STANN CREEK,STANN CREEK,25,ATOS
+8109,F,Creole,STANN CREEK,STANN CREEK,25,AAGR
+8147,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,32,AARC
+8153,M,Mestizo,Belize City,BELIZE,48,ABCB
+8171,M,East Indian,Belmopan City,Cayo,,ABCE
+8182,F,Creole,Belize City,BELIZE,10,ABCM
+8205,F,Creole,SAN IGNACIO,Cayo,27,ABIO
+8221,M,Mestizo,COROZAL,COROZAL,13,ABMB
+8234,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,27,ABMP
+8241,F,Mestizo,SANTA ELENA,Cayo,,ACHE
+8247,M,Mestizo,,ORANGE WALK,26,ACMB
+8271,M,Creole,Belize City,BELIZE,48,ACMP
+8286,F,Creole,Belize City,BELIZE,48,AINT
+8294,M,Creole,Belize City,BELIZE,10,AMAB
+8300,F,Mestizo,SAN IGNACIO,Cayo,11,AMAP
+8307,F,Mestizo,ORANGE WALK,ORANGE WALK,10,AMAT
+8326,F,Mestizo,Belmopan City,Cayo,,AMEE
+8339,M,Garifuna,Belmopan City,Cayo,25,ANRM
+8375,F,Mestizo,COROZAL,COROZAL,51,AENG
+8397,F,Creole,SANTA ELENA,Cayo,32,APRE
+8404,M,Creole,Belize City,BELIZE,13,AECE
+8420,M,Mestizo,SAN IGNACIO,Cayo,27,ABUS
+8428,M,East Indian,TOLEDO,TOLEDO,45,ATOS
+8440,F,Mestizo,-,STANN CREEK,79,AAGR
+8473,M,Mestizo,Cayo,Cayo,32,AARC
+8492,M,Mestizo,BELMOPAN,Cayo,30,ABCB
+8521,M,Mestizo,Belmopan City,Cayo,72,ABCE
+8554,M,Creole,Belmopan City,Cayo,48,ABCM
+8593,M,Mayan,Belize City,BELIZE,13,ABIO
+8602,F,Mestizo,SANTA ELENA,Cayo,21,ABMB
+8620,M,Creole,Belize City,BELIZE,11,ABMP
+8640,M,Creole,-,BELIZE,30,ACHE
+8675,M,Mestizo,Belmopan City,Cayo,30,ACMB
+8704,M,Creole,Belize City,BELIZE,48,ACMP
+8721,M,Mestizo,Belmopan City,Cayo,30,AINT
+8751,M,Mestizo,,ORANGE WALK,26,AMAB
+8780,F,Creole,Belmopan City,Cayo,30,AMAP
+8789,M,Oriental,LADYVILLE VILLAGE,BELIZE,63,AMAT
+8792,M,Mayan,PUNTA GORDA TOWN,TOLEDO,45,AMEE
+8804,M,Creole,-,STANN CREEK,25,ANRM
+8834,M,Other,Belmopan City,Cayo,,AENG
+8858,M,Mestizo,Belmopan City,Cayo,30,APRE
+8884,M,Creole,Belize City,BELIZE,20,AECE
+8921,M,Creole,-,BELIZE,37,ABUS
+8942,M,Mestizo,-,Cayo,32,ATOS
+8989,M,Creole,,Cayo,66,AAGR
+9015,M,Creole,Belmopan City,Cayo,30,AARC
+9021,M,Mestizo,ORANGE WALK TOWN,ORANGE WALK,33,ABCB
+9047,M,Mestizo,STANN CREEK DISTRICT,BELIZE,25,ABCE
+9076,M,Oriental,Belmopan City,Cayo,,ABCM
+9093,M,Creole,Belize City,BELIZE,,ABIO
+9123,M,Mestizo,Belmopan City,Cayo,13,ABMB
+9126,M,Mestizo,Belize City,BELIZE,49,ABMP
+9140,F,Creole,Belize City,BELIZE,17,ACHE
+9152,M,Mestizo,SAN IGNACIO,Cayo,27,ACMB
+9181,M,Creole,Belize City,BELIZE,40,ACMP
+9202,F,Oriental,Belmopan City,Cayo,,AINT
+9230,M,Creole,,Cayo,30,AMAB
+9237,M,Mestizo,Belmopan City,Cayo,30,AMAP
+9244,M,Mestizo,Belmopan City,Cayo,30,AMAT
+9289,M,Garifuna,Belmopan City,Cayo,49,AMEE
+9299,M,Mayan,ROARING CREEK VILLAGE,Cayo,30,ANRM
+9318,F,Mestizo,-,Cayo,27,AENG
+9331,M,Creole,Belmopan City,Cayo,30,APRE
+9355,M,Creole,Belize City,BELIZE,45,AECE
+9367,M,Garifuna,DANGRIGA TOWN,STANN CREEK,,ABUS
+9396,F,Mestizo,,STANN CREEK,36,ATOS
+9406,F,Creole,Belmopan City,Cayo,30,
+9431,F,Mayan,PUNTA GORDA,TOLEDO,45,AAGR
+9433,M,Mestizo,,BELIZE,,AARC
+9458,M,Creole,Belize City,BELIZE,36,ABCB
+9464,F,Mestizo,Belmopan City,Cayo,30,ABCE
+9490,M,Mayan,Belmopan City,Cayo,30,ABCM
+9504,M,Creole,Belmopan City,Cayo,30,ABIO
+9510,M,Mestizo,Belize City,BELIZE,10,ABMB
+9532,M,Mestizo,Belize City,BELIZE,10,ABMP
+9548,M,Mestizo,Belmopan City,Cayo,66,ACHE
+9567,M,Creole,Belmopan City,Cayo,,ACMB
+9590,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,32,ACMP
+9613,M,Mestizo,-,Cayo,66,AINT
+9649,M,Creole,BELMOPAN,Cayo,49,AMAB
+9683,M,Mestizo,Cayo,BELIZE,32,AMAP
+9719,M,Mestizo,,Cayo,13,AMAT
+9751,M,Creole,ORANGE WALK,BELIZE,9,AMEE
+9760,M,Mestizo,SAN IGNACIO,Cayo,11,ANRM
+9764,M,Creole,Belmopan City,Cayo,66,AENG
+9772,M,Creole,BURRELL BOOM VILLAGE,BELIZE,10,APRE
+9779,F,Mayan,,TOLEDO,18,AECE
+9791,F,Mayan,Belmopan City,Cayo,18,ABUS
+9822,F,Mayan,,TOLEDO,18,ATOS
+9828,M,Creole,Belmopan City,Cayo,30,AAGR
+9834,M,Other,Belmopan City,BELIZE,13,AARC
+9838,M,Mestizo,Belmopan City,Cayo,85,ABCB
+9851,M,Creole,BELMOPAN,Cayo,61,ABCE
+9876,F,Creole,SAN IGNACIO,Cayo,21,ABCM
+9888,M,Mayan,,STANN CREEK,36,ABIO
+9916,M,Creole,-,STANN CREEK,13,ABMB
+9939,M,Creole,CAMALOTE VILLAGE,Cayo,49,ABMP
+9942,M,Creole,Belize City,BELIZE,40,ACHE
+9965,F,Creole,Belize City,BELIZE,22,ACMB
+9970,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,27,ACMP
+10001,M,Creole,Belize City,BELIZE,20,AINT
+10004,M,Garifuna,DANGRIGA TOWN,STANN CREEK,25,AMAB
+10013,M,Creole,ROARING CREEK VILLAGE,Cayo,,AMAP
+10018,M,Creole,BELMOPAN,Cayo,45,AMAT
+10034,M,Mestizo,Belmopan City,Cayo,30,AMEE
+10074,M,Garifuna,DANGRIGA TOWN,STANN CREEK,44,ANRM
+10086,M,Creole,Belize City,BELIZE,40,AENG
+10114,M,Garifuna,DANGRIGA TOWN,STANN CREEK,44,APRE
+10145,F,Creole,HATTIEVILLE VILLAGE,BELIZE,48,AECE
+10156,M,Mestizo,Santa Elena Town,Cayo,13,ABUS
+10173,F,Creole,Belize City,BELIZE,42,ATOS
+10182,M,Mayan,BENQUE VIEJO DEL CARMEN,Cayo,32,AAGR
+10208,M,Mestizo,ORANGE WALK,ORANGE WALK,26,AARC
+10239,M,Mayan,Belmopan City,Cayo,30,ABCB
+10266,M,Creole,Belize City,BELIZE,40,ABCE
+10275,M,Caucasian,SAN IGNACIO,Cayo,,ABCM
+10293,M,Creole,Belize City,BELIZE,47,ABIO
+10306,M,Creole,Belmopan City,Cayo,30,ABMB
+10321,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,32,ABMP
+10347,M,Creole,DANGRIGA TOWN,STANN CREEK,25,ACHE
+10375,M,Creole,Belmopan City,Cayo,66,ACMB
+10382,F,Other,Belize City,BELIZE,48,ACMP
+10415,M,Mestizo,SAN IGNACIO TOWN,Cayo,13,AINT
+10427,F,Mestizo,Belmopan City,Cayo,66,AMAB
+10437,M,Mestizo,Belmopan City,Cayo,27,AMAP
+10446,M,Creole,Belmopan City,Cayo,30,AMAT
+10471,M,Creole,Belmopan City,Cayo,,AMEE
+10500,M,Mestizo,Belize City,BELIZE,28,ANRM
+10506,F,East Indian,BELIZE DISTRICT,BELIZE,10,AENG
+10533,F,Creole,Belize City,BELIZE,10,APRE
+10542,M,Mestizo,Belmopan City,Cayo,,AECE
+10565,M,Creole,CAMALOTE VILLAGE,Cayo,13,ABUS
+10568,M,Creole,Belmopan City,Cayo,30,ATOS
+10591,M,Creole,Belmopan City,Cayo,13,AAGR
+10601,M,Mestizo,Belmopan City,Cayo,13,AARC
+10609,F,Creole,ROARING CREEK VILLAGE,Cayo,13,ABCB
+10614,M,Oriental,Belmopan City,Cayo,13,ABCE
+10627,M,Mestizo,SANTA ELENA,Cayo,26,ABCM
+10646,M,Other,Belize City,BELIZE,,ABIO
+10653,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,,ABMB
+10669,M,Creole,-,Cayo,32,ABMP
+10677,M,East Indian,INDIANVILLE,TOLEDO,,ACHE
+10697,F,Garifuna,ROARING CREEK VILLAGE,Cayo,30,ACMB
+10715,M,Garifuna,DANGRIGA TOWN,STANN CREEK,44,ACMP
+10720,M,Creole,Belmopan City,Cayo,30,AINT
+10731,M,Mestizo,DANGRIGA TOWN,STANN CREEK,25,AMAB
+10734,M,Creole,,Cayo,,AMAP
+10762,M,Creole,Belize City,BELIZE,48,AMAT
+10773,F,Creole,Belize City,BELIZE,20,AMEE
+10785,M,Mestizo,-,ORANGE WALK,13,ANRM
+10788,M,Creole,Belize City,BELIZE,13,AENG
+10793,F,Mestizo,Belmopan City,Cayo,29,APRE
+10801,M,Mestizo,DANGRIGA TOWN,STANN CREEK,25,AECE
+10807,M,Oriental,Belmopan City,Cayo,30,ABUS
+10832,M,Mestizo,ORANGE WALK DISTRICT,BELIZE,,ATOS
+10840,M,Mestizo,Cayo,BELIZE,32,AAGR
+10859,M,Creole,Belize City,BELIZE,20,AARC
+10863,F,Mestizo,Belmopan City,Cayo,30,ABCB
+10870,M,Mestizo,Belize City,BELIZE,40,ABCE
+10889,M,Mestizo,-,COROZAL,28,ABCM
+10901,M,Mestizo,Santa Elena Town,Cayo,27,ABIO
+10914,M,Creole,Belize City,BELIZE,63,ABMB
+10925,F,Mestizo,SAN PEDRO TOWN,BELIZE,39,ABMP
+10955,M,Creole,ORANGE WALK TOWN,ORANGE WALK,20,ACHE
+10958,F,Mestizo,Belmopan City,Cayo,30,ACMB
+10971,M,Creole,PUNTA GORDA,TOLEDO,45,ACMP
+10977,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,27,AINT
+10983,F,Creole,Belmopan City,Cayo,17,AMAB
+11004,F,Creole,Belmopan City,Cayo,66,AMAP
+11029,F,Oriental,Belmopan City,Cayo,72,AMAT
+11054,M,East Indian,SANTA ELENA,Cayo,,AMEE
+11082,M,Mestizo,SAN NARCISO VILLAGE,COROZAL,28,ANRM
+11096,M,Mestizo,SAN ANTONIO VILLAGE,Cayo,27,AENG
+11107,M,Mestizo,SAN LAZARO VILLAGE,ORANGE WALK,26,APRE
+11132,F,Mestizo,ORANGE WALK TOWN,ORANGE WALK,26,AECE
+11138,M,Oriental,Belmopan City,Cayo,30,ABUS
+11164,M,Mestizo,Belmopan City,Cayo,30,ATOS
+11169,M,Mestizo,INDEPENDENCE VILLAGE,STANN CREEK,36,AAGR
+11191,F,Creole,-,Cayo,86,AARC
+11198,F,Mestizo,ORANGE WALK TOWN,ORANGE WALK,33,ABCB
+11224,M,Oriental,Belmopan City,Cayo,40,ABCE
+11250,M,Mestizo,Belize City,BELIZE,48,ABCM
+11277,F,East Indian,SANDHILL VILLAGE,BELIZE,10,ABIO
+11301,M,East Indian,Belize City,BELIZE,10,ABMB
+11319,M,Other,Belmopan City,Cayo,,ABMP
+11344,M,Creole,BURRELL BOOM VILLAGE,BELIZE,,ACHE
+11353,M,Mestizo,Belmopan City,Cayo,30,ACMB
+11356,M,Creole,Belize City,BELIZE,20,ACMP
+11371,M,East Indian,Belize City,BELIZE,20,AINT
+11378,M,Garifuna,Belmopan City,Cayo,66,AMAB
+11404,M,Creole,BELMOPAN,Cayo,,AMAP
+11423,M,Oriental,Belmopan City,Cayo,25,AMAT
+11449,F,Mestizo,Belize City,BELIZE,,AMEE
+11462,M,Creole,BELMOPAN,Cayo,,ANRM
+11468,M,Creole,ROARING CREEK VILLAGE,Cayo,13,AENG
+11471,M,Mayan,-,STANN CREEK,13,APRE
+11506,M,Creole,PUNTA GORDA TOWN,TOLEDO,45,AECE
+11517,M,Mayan,PUNTA GORDA,TOLEDO,45,ABUS
+11521,M,Mestizo,Belmopan City,Cayo,27,ATOS
+11551,M,Mayan,Belmopan City,Cayo,49,AAGR
+11564,M,East Indian,,Cayo,27,AARC
+11580,M,Garifuna,STANN CREEK,STANN CREEK,21,ABCB
+11618,M,Creole,Belmopan City,Cayo,66,ABCE
+11654,M,Mayan,Cayo,BELIZE,30,ABCM
+11688,F,Mayan,BENQUE VIEJO TOWN,Cayo,45,ABIO
+11692,M,Creole,Belize City,BELIZE,22,ABMB
+11702,M,Unknown,Belize City,BELIZE,20,ABMP
+11725,M,Caucasian,Belmopan City,Cayo,72,ACHE
+11743,M,Unknown,Belmopan City,Cayo,30,ACMB
+11750,M,Caucasian,Belmopan City,Cayo,51,ACMP
+11753,M,Garifuna,DANGRIGA TOWN,STANN CREEK,25,AINT
+11782,M,Ketchi,BELMOPAN,Cayo,66,AMAB
+11822,M,Mestizo,STANN CREEK DISTRICT,STANN CREEK,36,AMAP
+11828,M,Mestizo,Belmopan City,Cayo,66,AMAT
+11854,F,Garifuna,BELMOPAN,Cayo,30,AMEE
+11886,F,Mestizo,VALLEY OF PEACE,Cayo,30,ANRM
+11891,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,38,AENG
+11900,M,Mestizo,Belize City,BELIZE,10,APRE
+11908,M,Mestizo,SANTA FAMILIA VILLAGE,Cayo,32,AECE
+11930,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,32,ABUS
+11964,M,Mestizo,Cayo,BELIZE,27,ATOS
+11989,F,Mestizo,SANTA ELENA,Cayo,27,AAGR
+11995,M,Unknown,BURRELL BOOM VILLAGE,BELIZE,61,AARC
+12009,F,Mestizo,Belize City,BELIZE,56,ABCB
+12021,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,32,ABCE
+12041,M,Mayan,TOLEDO DISTICT,TOLEDO,45,ABCM
+12064,M,Creole,Belmopan City,Cayo,66,ABIO
+12069,F,Mestizo,SANTA ELENA,Cayo,50,ABMB
+12112,M,Mestizo,ORANGE WALK DISTRICT,ORANGE WALK,73,ABMP
+12118,F,Creole,Belize City,BELIZE,40,ACHE
+12132,F,Mayan,Belmopan City,Cayo,49,ACMB
+12173,M,Creole,Belmopan City,Cayo,66,ACMP
+12198,M,Mestizo,ORANGE WALK TOWN,ORANGE WALK,26,AINT
+12207,M,Mestizo,Belmopan City,Cayo,49,AMAB
+12227,M,Mestizo,ORANGE WALK DISTRICT,ORANGE WALK,26,AMAP
+12262,M,Unknown,DANGRIGA TOWN,STANN CREEK,2,AMAT
+12276,M,Mestizo,Belmopan City,Cayo,11,AMEE
+12281,M,Creole,Belmopan City,Cayo,13,ANRM
+12297,M,Mestizo,TOLEDO DISTRICT,BELIZE,36,AENG
+12322,M,Mestizo,Belize City,BELIZE,10,APRE
+12333,M,Mestizo,Belmopan City,Cayo,30,AECE
+12350,M,Mestizo,Belmopan City,Cayo,30,ABUS
+12354,M,Other,SAN IGNACIO,Cayo,27,ATOS
+12358,M,Creole,-,BELIZE,10,
+12370,M,Creole,Belmopan City,Cayo,30,AAGR
+12375,M,Creole,-,Cayo,,AARC
+12398,F,Mayan,-,ORANGE WALK,,ABCB
+12404,M,Creole,CAMALOTE VILLAGE,Cayo,,ABCE
+12412,M,Mestizo,ROARING CREEK VILLAGE,Cayo,66,ABCM
+12422,F,Garifuna,Belmopan City,Cayo,13,ABIO
+12429,F,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,13,ABMB
+12432,F,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,27,ABMP
+12455,M,Creole,Cayo,BELIZE,11,ACHE
+12461,M,Creole,,BELIZE,22,ACMB
+12466,M,Garifuna,COROZAL TOWN,BELIZE,51,ACMP
+12478,M,Mestizo,Belmopan City,Cayo,30,AINT
+12487,M,Mestizo,TOLEDO,BELIZE,45,AMAB
+12503,M,Mayan,COROZAL,BELIZE,18,AMAP
+12519,M,Creole,Belmopan City,Cayo,30,AMAT
+12520,M,Mestizo,-,Cayo,27,AMEE
+12554,M,Garifuna,STANN CREEK,BELIZE,2,ANRM
+12575,M,Creole,BELMOPAN,Cayo,30,AENG
+12585,F,Mayan,-,Cayo,30,APRE
+12591,M,Mestizo,Belmopan City,Cayo,30,AECE
+12594,F,Mestizo,,BELIZE,17,ABUS
+12604,F,East Indian,Belize City,BELIZE,13,ATOS
+12617,M,Creole,Belmopan City,Cayo,30,AAGR
+12656,M,Mestizo,SAN IGNACIO,Cayo,13,AARC
+12706,M,Mestizo,Cayo,BELIZE,27,ABCB
+12729,M,Other,Belmopan City,Cayo,13,ABCE
+12753,M,Creole,CITY OF BELMOPAN,Cayo,13,ABCM
+12793,M,Creole,Cayo,BELIZE,,ABIO
+12797,M,Creole,BELMOPAN,Cayo,30,ABMB
+12829,M,Creole,Belize City,BELIZE,,ABMP
+12847,M,Creole,STANN CREEK,BELIZE,13,ACHE
+12859,M,Mestizo,ORANGE WALK TOWN,ORANGE WALK,71,ACMB
+12868,M,Creole,Cayo,BELIZE,9,ACMP
+12872,M,Creole,STANN CREEK,BELIZE,2,AINT
+12896,M,Creole,Belmopan City,Cayo,66,AMAB
+12909,M,Mestizo,Belmopan City,Cayo,30,AMAP
+12930,M,Mestizo,Santa Elena Town,Cayo,27,AMAT
+12948,M,Mestizo,Belmopan City,Cayo,66,AMEE
+12953,M,Creole,Cayo,BELIZE,27,ANRM
+12958,M,Creole,Belmopan City,Cayo,66,AENG
+12980,M,Creole,Belize City,BELIZE,20,APRE
+12997,M,Mayan,,BELIZE,49,AECE
+13000,M,Mayan,Belize City,BELIZE,36,ABUS
+13028,M,Creole,Belize City,BELIZE,40,ATOS
+13065,M,Garifuna,STANN CREEK,BELIZE,,AAGR
+13072,F,Mestizo,BELMOPAN,Cayo,17,AARC
+13083,M,Mestizo,Cayo,BELIZE,30,ABCB
+13102,M,Creole,Belize City,BELIZE,10,ABCE
+13110,M,Mestizo,Belmopan City,Cayo,49,ABCM
+13113,M,Oriental,Cayo,BELIZE,27,ABIO
+13140,M,Mestizo,Cayo,BELIZE,27,ABMB
+13165,F,Creole,-,BELIZE,27,ABMP
+13181,F,Creole,Belize City,BELIZE,40,ACHE
+13206,M,Mestizo,-,BELIZE,13,ACMB
+13231,M,Creole,Belmopan City,Cayo,66,ACMP
+13237,M,Creole,-,Cayo,30,AINT
+13259,F,Mestizo,,BELIZE,39,AMAB
+13284,M,Mestizo,BELMOPAN,Cayo,66,AMAP
+13298,F,Creole,Belize City,BELIZE,40,AMAT
+13302,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,27,AMEE
+13334,M,Mestizo,-,BELIZE,27,ANRM
+13369,M,Garifuna,Belize City,BELIZE,10,AENG
+13380,M,Mayan,SAN ANTONIO VILLAGE,Cayo,27,APRE
+13388,M,Creole,Cayo,Cayo,,AECE
+13392,M,Mestizo,COROZAL TOWN,COROZAL,,ABUS
+13410,M,Garifuna,TOLEDO,BELIZE,45,ATOS
+13440,M,Creole,,BELIZE,13,AAGR
+13444,M,Mestizo,,BELIZE,39,AARC
+13461,M,Other,Belmopan City,Cayo,80,ABCB
+13466,F,East Indian,Belize City,BELIZE,40,ABCE
+13471,M,Mestizo,Belize City,BELIZE,10,ABCM
+13475,F,Mestizo,-,BELIZE,13,ABIO
+13520,F,Creole,Cayo,BELIZE,,ABMB
+13547,M,Mestizo,BELMOPAN,Cayo,30,ABMP
+13569,M,Garifuna,Belmopan City,Cayo,,ACHE
+13572,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,27,ACMB
+13578,M,Creole,Belmopan City,Cayo,42,ACMP
+13612,M,Mestizo,Belmopan City,Cayo,27,AINT
+13627,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,32,AMAB
+13642,M,Creole,Belmopan City,Cayo,13,AMAP
+13685,M,Garifuna,DANGRIGA TOWN,STANN CREEK,25,AMAT
+13712,M,Creole,Belize City,BELIZE,,AMEE
+13718,M,Creole,Belmopan City,Cayo,30,ANRM
+13721,M,Mestizo,SAN PEDRO AMBERGRIS CAYE,BELIZE,3,AENG
+13727,F,Mestizo,Belmopan City,Cayo,66,APRE
+13757,M,Mestizo,Belize City,BELIZE,10,AECE
+13769,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,32,ABUS
+13778,F,Mestizo,Belize City,BELIZE,17,ATOS
+13804,M,Mestizo,SANTA FAMILIA VILLAGE,Cayo,32,AAGR
+13813,M,Creole,Belize City,BELIZE,20,AARC
+13822,M,Mestizo,SAN IGNACIO,Cayo,11,ABCB
+13826,M,Mestizo,Belmopan City,Cayo,30,ABCE
+13853,F,Mestizo,Belmopan City,Cayo,66,ABCM
+13868,M,Mestizo,GUINEA GRASS VILLAGE,ORANGE WALK,26,ABIO
+13898,M,Oriental,SAN IGNACIO,Cayo,11,ABMB
+13923,M,Creole,COROZAL TOWN,COROZAL,51,ABMP
+13961,F,Mestizo,,STANN CREEK,,ACHE
+13973,M,Mestizo,-,Cayo,27,ACMB
+14001,M,Mestizo,Belmopan City,Cayo,30,ACMP
+14043,M,Garifuna,DANGRIGA TOWN,STANN CREEK,25,AINT
+14069,M,Garifuna,DANGRIGA TOWN,STANN CREEK,2,AMAB
+14085,M,Garifuna,Belmopan City,Cayo,66,AMAP
+14117,M,Creole,,Cayo,13,AMAT
+14120,F,Mestizo,ORANGE WALK TOWN,ORANGE WALK,15,AMEE
+14123,F,Mestizo,ONTARIO VILLAGE,Cayo,35,ANRM
+14129,F,Creole,Belize City,BELIZE,40,AENG
+14154,M,Mayan,SAN IGNACIO,Cayo,27,APRE
+14159,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,32,AECE
+14185,M,Mestizo,TRIAL FARM,ORANGE WALK,26,ABUS
+14213,M,Creole,BELMOPAN,Cayo,25,ATOS
+14244,M,Oriental,SAN IGNACIO TOWN,Cayo,27,AAGR
+14263,M,Mestizo,SAN IGNACIO,Cayo,27,AARC
+14267,M,Mestizo,-,Cayo,49,ABCB
+14279,M,Mestizo,SANTA ELENA,Cayo,11,ABCE
+14310,M,Mestizo,SAN IGNACIO TOWN,Cayo,11,ABCM
+14327,M,Mayan,Cayo,BELIZE,30,ABIO
+14355,M,Creole,-,BELIZE,13,ABMB
+14359,M,East Indian,LADYVILLE,BELIZE,63,ABMP
+14364,M,Creole,Belize City,BELIZE,,ACHE
+14392,M,Creole,-,BELIZE,10,ACMB
+14394,M,Creole,,BELIZE,20,ACMP
+14404,F,Garifuna,STANN CREEK DISTRICT,STANN CREEK,,AINT
+14409,M,Mestizo,Belize City,BELIZE,13,AMAB
+14422,M,Mayan,STANN CREEK DISTRICT,STANN CREEK,13,AMAP
+14434,M,Creole,Belmopan City,Cayo,10,AMAT
+14457,M,Creole,Cayo,BELIZE,27,AMEE
+14465,F,Creole,Cayo,BELIZE,30,ANRM
+14470,F,Creole,Cayo,BELIZE,72,AENG
+14476,M,Mayan,-,Cayo,27,APRE
+14506,F,Creole,Belize City,BELIZE,20,AECE
+14551,M,Mestizo,SAN IGNACIO,Cayo,27,ABUS
+14559,M,Oriental,Belize City,BELIZE,10,ATOS
+14581,F,Creole,Belize City,BELIZE,10,AAGR
+14589,F,Creole,Cayo,BELIZE,30,AARC
+14595,M,Mestizo,Cayo,BELIZE,32,ABCB
+14601,F,Mestizo,Belize City,BELIZE,56,ABCE
+14604,M,Mayan,SAN IGNACIO,Cayo,27,ABCM
+14621,M,Mestizo,TOLEDO DISTRICT,TOLEDO,45,ABIO
+14629,F,Mestizo,SANTA ELENA,BELIZE,27,ABMB
+14655,M,Mestizo,Belmopan City,Cayo,49,ABMP
+14681,F,Mestizo,Belmopan City,Cayo,30,ACHE
+14693,M,Mestizo,Belmopan City,Cayo,47,ACMB
+14703,M,Mayan,SAN MIGUEL VILLAGE,TOLEDO,,ACMP
+14713,M,Garifuna,Belmopan City,Cayo,72,AINT
+14717,M,Mestizo,STANN CREEK,BELIZE,36,AMAB
+14733,M,Mestizo,Cayo,BELIZE,30,AMAP
+14741,M,Creole,Cayo,BELIZE,72,AMAT
+14766,M,East Indian,Belmopan City,Cayo,66,AMEE
+14772,F,Mestizo,Belmopan City,Cayo,72,ANRM
+14778,M,Mestizo,ORANGE WALK TOWN,ORANGE WALK,10,AENG
+14801,M,Mestizo,Cayo,BELIZE,30,APRE
+14826,F,Oriental,Belmopan City,Cayo,30,AECE
+14835,M,Mayan,TOLEDO DISTRICT,TOLEDO,45,ABUS
+14841,M,Mayan,Belize City,BELIZE,27,ATOS
+14846,M,Mestizo,SAN IGNACIO,Cayo,27,AAGR
+14873,M,Creole,SAN IGNACIO,Cayo,50,AARC
+14881,M,Creole,BELIZE,BELIZE,10,ABCB
+14885,F,Mestizo,SAN IGNACIO,Cayo,21,ABCE
+14897,M,Creole,Belmopan City,Cayo,30,ABCM
+14922,F,Mestizo,ORANGE WALK TOWN,ORANGE WALK,15,ABIO
+14928,M,Mestizo,ORANGE WALK,BELIZE,15,ABMB
+14932,F,Mestizo,Belmopan City,Cayo,66,ABMP
+14939,M,Creole,Cayo,BELIZE,35,ACHE
+14964,M,Creole,Belmopan City,Cayo,13,ACMB
+14978,F,Garifuna,Belmopan City,Cayo,66,ACMP
+14982,M,Mestizo,-,Cayo,30,AINT
+14997,M,Garifuna,Belmopan City,Cayo,30,AMAB
+15005,M,Creole,Belize City,BELIZE,13,AMAP
+15014,F,Mestizo,Belmopan City,Cayo,13,AMAT
+15018,F,Creole,Belize City,BELIZE,13,AMEE
+15025,F,Garifuna,DANGRIGA TOWN,STANN CREEK,2,ANRM
+15032,F,Creole,LADYVILLE VILLAGE,BELIZE,10,AENG
+15051,M,Mestizo,Belize City,BELIZE,10,APRE
+15056,M,Mestizo,-,Cayo,11,AECE
+15069,M,Garifuna,HOPKINS VILLAGE,STANN CREEK,2,ABUS
+15072,M,Creole,-,Belize City,10,ATOS
+15083,M,Garifuna,DANGRIGA TOWN,STANN CREEK,10,
+15093,M,Garifuna,DANGRIGA TOWN,STANN CREEK,25,AAGR
+15105,M,Creole,Belize City,BELIZE,40,AARC
+15149,M,Caucasian,CAMALOTE VILLAGE,Cayo,30,ABCB
+15152,F,Mayan,-,TOLEDO,45,ABCE
+15156,M,Creole,Belize City,BELIZE,20,ABCM
+15167,M,Creole,-,Belize City,20,ABIO
+15173,M,Mayan,SANTA ROSA VILLAGE,STANN CREEK,36,ABMB
+15186,M,Mestizo,SAN IGNACIO TOWN,Cayo,27,ABMP
+15191,M,Mestizo,Belize City,BELIZE,28,ACHE
+15209,M,Creole,-,Belize City,19,ACMB
+15215,F,Creole,Belize City,BELIZE,20,ACMP
+15227,M,Creole,LADYVILLE VILLAGE,BELIZE,20,AINT
+15235,M,Garifuna,CHICAGO,Illinois,,AMAB
+15268,M,Creole,-,Belize City,20,AMAP
+15273,M,Creole,Belmopan City,Cayo,66,AMAT
+15293,M,Mestizo,Belmopan City,Cayo,13,AMEE
+15317,F,Creole,-,Cayo,30,ANRM
+15326,M,Creole,-,BELIZE,13,AENG
+15331,M,Mestizo,Cayo,BELIZE,50,APRE
+15335,M,Garifuna,TOLEDO DISTRICT,BELIZE,45,AECE
+15344,M,Mestizo,Cayo,BELIZE,11,ABUS
+15359,M,Mayan,-,STANN CREEK,2,ATOS
+15368,M,Creole,Belmopan City,Cayo,10,AAGR
+15374,M,Mestizo,Belmopan City,Cayo,13,AARC
+15400,M,Mestizo,Belmopan City,Cayo,66,ABCB
+15410,M,Mestizo,-,Cayo,27,ABCE
+15414,F,Mestizo,Belmopan City,Cayo,30,ABCM
+15418,F,Mayan,-,Cayo,30,ABIO
+15421,F,Mestizo,Belmopan City,Cayo,49,ABMB
+15424,F,Mestizo,-,BELIZE,7,ABMP
+15427,M,Garifuna,-,TOLEDO,81,ACHE
+15453,F,Mestizo,Belmopan City,Cayo,30,ACMB
+15480,M,Creole,-,STANN CREEK,66,ACMP
+15487,M,Mestizo,-,Cayo,66,AINT
+15493,M,Creole,-,BELIZE,20,AMAB
+15499,M,Mestizo,-,Cayo,35,AMAP
+15525,F,Mestizo,-,Cayo,30,AMAT
+15529,M,Mestizo,BELIZE,BELIZE,10,AMEE
+15571,F,Creole,Belmopan City,Cayo,49,ANRM
+15576,M,Mestizo,-,Cayo,10,AENG
+15582,F,Other,-,Cayo,72,APRE
+15588,F,Ketchi,-,TOLEDO,18,AECE
+15598,F,Mestizo,SAN IGNACIO TOWN,Cayo,32,ABUS
+15628,F,Mestizo,Belmopan City,Cayo,30,ATOS
+15639,F,Creole,DANGRIGA TOWN,STANN CREEK,25,AAGR
+15656,M,Creole,-,TOLEDO,45,AARC
+15661,M,Caucasian,-,Cayo,27,ABCB
+15690,M,Garifuna,-,STANN CREEK,25,ABCE
+15694,F,Creole,Cayo DISTRICT,Cayo,30,ABCM
+15698,M,Mestizo,-,Cayo,50,ABIO
+15712,M,Creole,Belmopan City,Cayo,,ABMB
+15715,F,Mestizo,SAN IGNACIO,Cayo,27,ABMP
+15719,M,Creole,-,Cayo,66,ACHE
+15725,F,Oriental,Belmopan City,Cayo,,ACMB
+15729,F,Garifuna,-,STANN CREEK,44,ACMP
+15731,F,Mestizo,Belmopan City,Cayo,49,AINT
+15734,F,Creole,-,Cayo,30,AMAB
+15742,M,Garifuna,Belmopan City,Cayo,30,AMAP
+15760,M,Mestizo,BELMOPAN,Cayo,35,AMAT
+15800,M,Garifuna,-,STANN CREEK,25,AMEE
+15814,M,Mestizo,BELMOPAN,Cayo,66,ANRM
+15840,M,Mestizo,-,Cayo,27,AENG
+15841,M,Creole,BELMOPAN,Cayo,66,APRE
+15851,M,Creole,-,DANGRIGA,25,AECE
+15852,F,Creole,Belmopan City,Cayo,66,ABUS
+15875,M,Mayan,-,Cayo,27,ATOS
+15876,M,East Indian,-,TOLEDO,18,AAGR
+15877,M,Mestizo,-,ORANGE WALK,26,AARC
+15883,M,Mestizo,-,Cayo,27,ABCB
+15884,M,Creole,-,BELIZE,48,ABCE
+15929,M,Mayan,BELMOPAN,Cayo,30,ABCM
+15974,M,Creole,-,Cayo,20,ABIO
+15975,M,Creole,-,Cayo,45,ABMB
+16014,F,Garifuna,-,Cayo,66,ABMP
+16015,F,Garifuna,-,BELIZE,56,ACHE
+16046,M,Creole,-,BELIZE,10,ACMB
+16047,M,Mestizo,-,STANN CREEK,36,ACMP
+16061,M,Mestizo,-,TOLEDO,36,AINT
+16092,F,Caucasian,-,Cayo,72,AMAB
+16103,M,Garifuna,-,STANN CREEK,36,AMAP
+16104,M,Garifuna,-,STANN CREEK,36,AMAT
+16112,M,Creole,-,Cayo,35,AMEE
+16127,M,Mestizo,-,BELIZE,37,ANRM
+16134,M,Mestizo,-,Cayo,35,AENG
+16161,M,Mestizo,-,ORANGE WALK,51,APRE
+16168,M,Mestizo,-,Cayo,27,AECE
+16189,F,Garifuna,BELIZE DISTRICT,BELIZE,37,ABUS
+16198,M,Creole,-,BELIZE,70,ATOS
+16199,M,Mayan,-,TOLEDO,45,AAGR
+16200,M,Creole,-,Cayo,30,AARC
+16233,M,Mestizo,Belmopan City,Cayo,30,ABCB
+16239,M,Mestizo,-,Cayo,27,ABCE
+16256,M,Mestizo,-,Cayo,66,ABCM
+16257,M,Creole,-,BELIZE,40,ABIO
+16258,F,Creole,-,BELIZE,56,ABMB
+16272,M,Mestizo,-,Cayo,30,ABMP
+16315,M,Mestizo,-,BELIZE,20,ACHE
+16316,M,Mestizo,ORANGE WALK,ORANGE WALK,,ACMB
+16317,M,Mestizo,BELMOPAN,Cayo,12,ACMP
+16320,M,Creole,-,Cayo,66,AINT
+16339,M,Mestizo,Belmopan City,Cayo,13,AMAB
+16353,M,Mestizo,-,Cayo,27,AMAP
+16377,M,Creole,Belize City,BELIZE,49,AMAT
+16378,M,Creole,Santa Elena Town,Cayo,13,AMEE
+16382,M,Mestizo,-,Cayo,13,ANRM
+16407,M,Creole,-,STANN CREEK,,AENG
+16412,M,Creole,-,STANN CREEK,25,APRE
+16418,M,Creole,BELIZE,BELIZE,,AECE
+16419,M,Creole,-,BELIZE,40,ABUS
+16428,M,Creole,-,Cayo,22,ATOS
+16462,M,Garifuna,PUNTA GORDA TOWN,TOLEDO,45,AAGR
+16477,M,Mestizo,Cayo DISTRICT,Cayo,30,AARC
+16509,M,Mestizo,-,BELIZE,66,ABCB
+16551,M,Other,-,Cayo,,ABCE
+16567,M,Mestizo,-,Cayo,13,ABCM
+16589,M,Mayan,Belmopan City,Cayo,30,ABIO
+16602,F,Garifuna,-,STANN CREEK,17,ABMB
+16612,F,Mestizo,-,Cayo,72,ABMP
+16627,M,Creole,-,BELIZE,20,ACHE
+16663,F,Mestizo,SAN IGNACIO,Cayo,11,ACMB
+16696,M,Mestizo,BELMOPAN,Cayo,25,ACMP
+16712,M,Creole,-,STANN CREEK,25,AINT
+16716,M,Mestizo,-,Cayo,21,AMAB
+16745,M,Other,BELMOPAN,Cayo,82,AMAP
+16768,M,Mestizo,ORANGE WALK,ORANGE WALK,71,AMAT
+16773,M,East Indian,Belize City,BELIZE,40,AMEE
+16790,F,Mestizo,Belmopan City,Cayo,13,ANRM
+16795,M,Mayan,-,TOLEDO,45,AENG
+16803,M,Mayan,TOLEDO DISTRICT,TOLEDO,45,APRE
+16809,M,Oriental,-,TOLEDO,45,AECE
+16836,F,Mayan,-,TOLEDO,18,ABUS
+16841,F,Creole,Belize City,BELIZE,17,ATOS
+16842,F,Mestizo,COROZAL TOWN,COROZAL,51,AAGR
+16871,M,Mayan,-,STANN CREEK,25,AARC
+16878,M,Garifuna,-,STANN CREEK,25,ABCB
+16879,M,Mayan,-,TOLEDO,45,ABCE
+16883,M,Creole,-,STANN CREEK,45,ABCM
+16908,M,Caucasian,-,Cayo,13,ABIO
+16920,M,Mayan,BELMOPAN,Cayo,13,ABMB
+16952,M,Creole,Belmopan City,Cayo,66,ABMP
+16974,F,Creole,-,STANN CREEK,25,ACHE
+16993,M,Mestizo,-,Cayo,38,ACMB
+17004,M,Mestizo,-,Cayo,24,ACMP
+17013,M,Creole,8.5 M WESTERN HWY,BELIZE,40,AINT
+17037,M,Creole,LADYVILLE VILLAGE,BELIZE,10,AMAB
+17066,M,Oriental,DANGRIGA TOWN,STANN CREEK,25,AMAP
+17094,M,Creole,Belmopan City,Cayo,66,AMAT
+17110,F,Mestizo,Belmopan City,Cayo,30,AMEE
+17115,F,Other,-,SAN PEDRO,39,ANRM
+17116,M,Mestizo,Belmopan City,Cayo,30,AENG
+17147,M,Creole,Belmopan City,Cayo,45,APRE
+17149,M,Creole,-,BELIZE,20,AECE
+17153,F,Mestizo,-,Cayo,30,ABUS
+17157,M,Mayan,-,BELIZE,22,ATOS
+17163,F,Mestizo,-,Cayo,27,AAGR
+17169,M,Creole,Belmopan City,Cayo,30,AARC
+17197,M,Mestizo,Belmopan City,Cayo,27,ABCB
+17204,M,Mestizo,BELIZE,BELIZE,55,ABCE
+17205,M,East Indian,Belmopan City,Cayo,30,ABCM
+17220,M,Mestizo,-,Cayo,35,ABIO
+17228,M,Creole,Belmopan City,Cayo,30,ABMB
+17262,M,Mestizo,-,Cayo,30,ABMP
+17288,M,Mestizo,-,Cayo,66,ACHE
+17318,M,Mayan,Belmopan City,Cayo,30,ACMB
+17324,M,Creole,-,Cayo,30,ACMP
+17368,M,Garifuna,Belmopan City,Cayo,66,AINT
+17387,M,Other,Belmopan City,Cayo,30,AMAB
+17418,M,East Indian,Belmopan City,Cayo,35,AMAP
+17454,M,Mestizo,SAN IGNACIO,Cayo,27,AMAT
+17461,M,Mestizo,ORANGE WALK TOWN,ORANGE WALK,33,AMEE
+17462,M,Creole,BELIZE,BELIZE,10,ANRM
+17463,M,East Indian,Belmopan City,Cayo,66,AENG
+17464,M,Mestizo,SAN IGNACIO TOWN,Cayo,27,APRE
+17465,M,Oriental,Belmopan City,Cayo,13,AECE
+17493,M,Creole,SAN IGNACIO,Cayo,13,ABUS
+17515,M,Creole,BELIZE,BELIZE,,ATOS
+17555,F,Creole,BELIZE,BELIZE,66,
+17556,M,Creole,Belize City,BELIZE,1,AAGR
+17566,M,Creole,Belmopan City,Cayo,49,AARC
+17568,F,Creole,BELIZE,BELIZE,29,ABCB
+17570,M,Creole,-,BELIZE,40,ABCE
+17575,M,Creole,Belize,NULL,22,ABCM
+17576,M,Creole,BELIZE,BELIZE,40,ABIO
+17581,M,Creole,BELIZE,BELIZE,20,ABMB
+17591,M,Creole,BELIZE,BELIZE,40,ABMP
+17603,F,Creole,Belize City,BELIZE,40,ACHE
+17640,M,Creole,BELIZE,BELIZE,40,ACMB
+17653,M,Creole,BELIZE,BELIZE,40,ACMP
+17666,M,Garifuna,Belize City,BELIZE,40,AINT
+17667,M,Mestizo,Belize City,BELIZE,42,AMAB
+17703,F,Mestizo,Belmopan City,Cayo,38,AMAP
+17724,M,Creole,DANGRIGA TOWN,STANN CREEK,25,AMAT
+17759,F,Garifuna,Cayo DISTRICT,Cayo,44,AMEE
+17761,M,Mestizo,-,BELIZE,35,ANRM
+17762,M,Creole,Belmopan City,Cayo,66,AENG
+17774,M,Mestizo,-,STANN CREEK,25,APRE
+17802,M,Mayan,Belmopan City,Cayo,45,AECE
+17833,M,Mestizo,BELIZE,BELIZE,63,ABUS
+17842,M,Other,-,Cayo,36,ATOS
+17850,M,Other,Belmopan City,Cayo,,AAGR
+17854,F,Other,BELMOPAN,Cayo,,AARC
+17882,M,Mayan,BELIZE,BELIZE,18,ABCB
+17888,M,Mestizo,BELMOPAN,Cayo,30,ABCE
+17904,M,Creole,-,STANN CREEK,25,ABCM
+17936,M,Mayan,-,TOLEDO,36,ABIO
+17945,M,Garifuna,DANGRIGA TOWN,STANN CREEK,25,ABMB
+17975,M,Mestizo,-,COROZAL,28,ABMP
+17981,F,Unknown,-,BELIZE,17,ACHE
+18008,M,Unknown,Belmopan City,Cayo,66,ACMB
+18014,M,Unknown,Belmopan City,Cayo,25,ACMP
+18043,M,Unknown,-,STANN CREEK,59,AINT
+18052,M,Unknown,-,Cayo,72,AMAB
+18079,M,Unknown,Belmopan City,Cayo,30,AMAP
+18081,M,Unknown,-,TOLEDO,43,AMAT
+18089,M,Ketchi,-,TOLEDO,45,AMEE
+18096,M,Mestizo,Belmopan City,Cayo,13,ANRM
+18100,M,Unknown,-,TOLEDO,45,AENG
+18114,M,Unknown,Belize City,BELIZE,37,APRE
+18141,M,Unknown,-,Cayo,27,AECE
+18171,F,Unknown,-,BELIZE,20,ABUS
+18191,M,Mestizo,Belmopan City,Cayo,30,ATOS
+18219,M,Unknown,-,BELIZE,42,AAGR
+18247,F,Creole,-,TOLEDO,13,AARC
+18269,F,Unknown,Belmopan City,Cayo,56,ABCB
+18274,M,Unknown,Belmopan City,Cayo,66,ABCE
+18285,M,Unknown,Belmopan City,Cayo,72,ABCM
+18318,M,Unknown,-,Cayo,27,ABIO
+18355,M,Unknown,BELIZE,BELIZE,53,ABMB
+18363,F,Unknown,-,BELIZE,17,ABMP
+18365,M,Unknown,Belmopan City,Cayo,30,ACHE
+18385,M,Unknown,BELMOPAN,Cayo,30,ACMB
+18401,M,Unknown,Belmopan City,Cayo,30,ACMP
+18426,M,Unknown,-,Cayo,27,AINT
+18439,M,Unknown,-,BELIZE,39,AMAB
+18473,M,Unknown,Belmopan City,Cayo,72,AMAP
+18501,M,Unknown,-,TOLEDO,18,AMAT
+18505,M,East Indian,SAN IGNACIO TOWN,Cayo,27,AMEE
+18533,M,Creole,Belize City,BELIZE,20,ANRM
+18534,F,Unknown,BELMOPAN,Cayo,49,AENG
+18548,M,Mestizo,-,Cayo,27,APRE
+18549,M,Unknown,Belmopan City,Cayo,13,AECE
+18564,M,Unknown,-,Cayo,38,ABUS
+18594,M,Unknown,Belize City,BELIZE,20,ATOS
+18620,F,Unknown,Belmopan City,Cayo,66,AAGR
+18649,M,Mayan,-,BELIZE,53,AARC
+18659,M,Unknown,-,Cayo,30,ABCB
+18660,M,Unknown,-,BELIZE,42,ABCE
+18662,M,Unknown,BELMOPAN,Cayo,66,ABCM
+18700,M,Unknown,-,BELIZE,40,ABIO
+18734,F,East Indian,-,BELIZE,20,ABMB
+18742,M,Unknown,BELMOPAN,Cayo,13,ABMP
+18768,F,Unknown,-,Cayo,13,ACHE
+18776,M,Unknown,-,Cayo,27,ACMB
+18805,M,Unknown,BELMOPAN,Cayo,30,ACMP
+18806,F,Unknown,SAN IGNACIO,Cayo,13,AINT
+18813,M,Unknown,SAN PEDRO TOWN,BELIZE,3,AMAB
+18821,M,Unknown,Belize City,BELIZE,70,AMAP
+18826,M,Unknown,-,Cayo,30,AMAT
+18855,M,Unknown,DANGRIGA TOWN,STANN CREEK,13,AMEE
+18871,M,Garifuna,Belmopan City,Cayo,30,ANRM
+18880,F,Unknown,-,BELIZE,56,AENG
+18897,M,Mestizo,-,STANN CREEK,36,APRE
+18904,M,Unknown,BELMOPAN,Cayo,13,AECE
+18913,M,Mestizo,BELMOPAN,Cayo,49,ABUS
+18916,M,Mestizo,-,Cayo,65,ATOS
+18926,M,Unknown,BELMOPAN,Cayo,30,AAGR
+18931,M,Unknown,BELMOPAN,Cayo,30,AARC
+18936,M,Unknown,-,BELIZE,63,ABCB
+18943,M,Unknown,BELMOPAN,Cayo,10,ABCE
+18959,M,Mestizo,-,Cayo,38,ABCM
+18969,M,Creole,-,Cayo,54,ABIO
+18978,M,Mayan,-,TOLEDO,45,ABMB
+19000,M,Mestizo,Belize City,BELIZE,40,ABMP
+19032,M,Unknown,-,BELIZE,53,ACHE
+19042,M,Mayan,-,TOLEDO,25,ACMB
+19072,F,Creole,-,BELIZE,1,ACMP
+19083,M,Creole,BELIZE,BELIZE,63,AINT
+19094,M,Mestizo,-,Cayo,27,AMAB
+19136,M,Mestizo,BELMOPAN,BELIZE,30,AMAP
+19156,F,Unknown,-,TOLEDO,36,AMAT
+19165,M,Mestizo,BELMOPAN,Cayo,66,AMEE
+19196,M,Creole,#NAME?,BELIZE,20,ANRM
+19212,M,Unknown,-,Cayo,27,AENG
+19253,M,Mestizo,-,BELIZE,53,APRE
+19262,M,Creole,-,BELIZE,37,AECE
+19298,M,Mestizo,DANGRIGA TOWN,STANN CREEK,25,ABUS
+19325,M,Mestizo,-,Cayo,27,ATOS
+19330,M,Mestizo,-,Cayo,27,AAGR
+19344,M,Mestizo,BENQUE VIEJO TOWN,Cayo,27,AARC
+19357,M,Mestizo,Belmopan City,Cayo,30,ABCB
+19363,F,Other,Santa Elena Town,Cayo,21,ABCE
+19373,M,Other,-,Cayo,35,ABCM
+19376,F,Garifuna,DANGRIGA TOWN,STANN CREEK,25,ABIO
+19412,M,Other,BELMOPAN,Cayo,66,ABMB
+19444,M,Mestizo,ORANGE WALK TOWN,ORANGE WALK,26,ABMP
+19451,M,Mayan,-,TOLEDO,62,ACHE
+19472,M,Mestizo,-,STANN CREEK,25,ACMB
+19499,M,Mestizo,-,Cayo,38,ACMP
+19529,M,Mestizo,Belize City,BELIZE,20,AINT
+19542,F,Mestizo,-,Cayo,30,AMAB
+19549,M,Other,Belmopan City,Cayo,30,AMAP
+19575,M,Other,BELMOPAN,Cayo,66,AMAT
+19598,M,Mestizo,BELMOPAN,Cayo,30,AMEE
+19625,M,Mestizo,BELMOPAN,Cayo,30,ANRM
+19633,M,Creole,-,BELIZE,20,AENG
+19650,M,Mestizo,-,Cayo,32,APRE
+19676,F,Mestizo,BELMOPAN,Cayo,30,AECE
+19702,M,Creole,Santa Elena Town,Cayo,27,ABUS
+19716,M,Mestizo,SAN IGNACIO TOWN,Cayo,27,ATOS
+19732,M,Mestizo,BELMOPAN,Cayo,30,AAGR
+19752,M,East Indian,-,TOLEDO,45,AARC
+19769,M,Mestizo,Santa Elena Town,Cayo,27,ABCB
+19783,M,Mestizo,BENQUE VEJIO TOWN,Cayo,38,ABCE
+19817,F,Creole,Belmopan City,Cayo,30,ABCM
+19845,M,Mestizo,Belmopan City,Cayo,54,ABIO
+19850,F,Mestizo,-,Cayo,38,ABMB
+19893,M,Mestizo,-,Cayo,34,ABMP
+19911,M,Creole,BELMOPAN,Cayo,54,ACHE
+19918,M,Mestizo,Belmopan City,BELIZE,20,ACMB
+19954,M,Creole,-,STANN CREEK,44,ACMP
+19979,M,Mayan,-,Cayo,21,AINT
+20012,M,Creole,ORANGE WALK TOWN,ORANGE WALK,33,AMAB
+20031,M,Mestizo,-,Cayo,21,AMAP
+20058,M,Mestizo,-,STANN CREEK,25,AMAT
+20065,F,Mestizo,-,Cayo,77,AMEE
+20101,M,Creole,Belize City,BELIZE,40,ANRM
+20127,M,Garifuna,Belmopan City,BELIZE,30,AENG
+20132,M,Creole,-,Cayo,32,APRE
+20146,M,Mestizo,Belize City,BELIZE,22,AECE
+20160,M,Creole,-,BELIZE,54,ABUS
+20176,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,38,ATOS
+20182,M,Mestizo,Belmopan City,Cayo,30,AAGR
+20183,M,Mayan,-,STANN CREEK,36,AARC
+20215,M,Other,-,STANN CREEK,36,ABCB
+20250,M,Creole,Belize City,BELIZE,20,ABCE
+20258,M,Creole,BELMOPAN,Cayo,21,ABCM
+20295,M,Mestizo,-,Cayo,32,ABIO
+20300,M,Mayan,-,STANN CREEK,36,ABMB
+20310,M,Mestizo,BELMOPAN,Cayo,30,ABMP
+20345,F,Creole,Belmopan City,Cayo,30,ACHE
+20378,M,Mestizo,Santa Elena Town,Cayo,27,ACMB
+20407,M,Ketchi,BELMOPAN,Cayo,45,ACMP
+20424,M,Mestizo,-,Cayo,66,AINT
+20437,M,Creole,-,Cayo,30,AMAB
+20438,F,Creole,BELMOPAN,Cayo,66,AMAP
+20482,M,Mestizo,-,Cayo,24,AMAT
+20483,M,Creole,SAN IGNACIO TOWN,Cayo,27,AMEE
+20520,M,Mestizo,BELMOPAN,Cayo,30,ANRM
+20562,M,Mestizo,-,ORANGE WALK,28,AENG
+20586,M,Creole,-,BELIZE,20,APRE
+20592,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,38,AECE
+20601,M,Mayan,-,STANN CREEK,36,ABUS
+20626,M,Mestizo,SAN PEDRO,BELIZE,39,ATOS
+20627,M,Mestizo,-,BELIZE,10,
+20660,M,Mestizo,STANN CREEK,STANN CREEK,36,AAGR
+20668,M,Garifuna,DANGRIGA TOWN,STANN CREEK,2,AARC
+20675,M,Mestizo,BELMOPAN,Cayo,30,ABCB
+20710,F,East Indian,DANGRIGA,STANN CREEK,25,ABCE
+20725,M,Creole,PUNTA GORDA TOWN,TOLEDO,18,ABCM
+20742,F,Other,DANGRIGA TOWN,STANN CREEK,25,ABIO
+20782,F,Mestizo,BELMOPAN,Cayo,30,ABMB
+20809,M,Mayan,-,STANN CREEK,59,ABMP
+20821,M,Mestizo,Belmopan City,Cayo,65,ACHE
+20831,F,Mestizo,-,Cayo,77,ACMB
+20849,M,Mayan,Belmopan City,Cayo,30,ACMP
+20858,F,Mayan,Belmopan City,Cayo,35,AINT
+20888,M,Mestizo,-,Cayo,35,AMAB
+20912,F,Mestizo,Belmopan City,Cayo,30,AMAP
+20934,M,Creole,Belize City,BELIZE,20,AMAT
+20936,M,Mestizo,BELMOPAN,Cayo,30,AMEE
+20969,M,Mestizo,DANGRIGA TOWN,STANN CREEK,25,ANRM
+21005,M,Creole,Belize City,BELIZE,10,AENG
+21023,M,Mestizo,PUNTA GORDA TOWN,TOLEDO,45,APRE
+21029,M,Mestizo,BELMOPAN,Cayo,30,AECE
+21039,M,Creole,BELMOPAN,Cayo,30,ABUS
+21049,F,Mestizo,BELMOPAN,Cayo,27,ATOS
+21080,M,Mayan,BELMOPAN,Cayo,30,AAGR
+21112,M,Mayan,PUNTA GORDA TOWN,TOLEDO,45,AARC
+21144,M,Other,PUNTA GORDA TOWN,TOLEDO,45,ABCB
+21171,M,Mayan,BELMOPAN,Cayo,30,ABCE
+21185,F,Mestizo,SAN IGNACIO TOWN,Cayo,27,ABCM
+21212,F,Creole,-,STANN CREEK,25,ABIO
+21217,F,Mestizo,Belize City,BELIZE,63,ABMB
+21226,M,Mestizo,-,Cayo,30,ABMP
+21262,M,Mestizo,SAN IGNACIO TOWN,Cayo,30,ACHE
+21274,F,East Indian,-,BELIZE,17,ACMB
+21289,M,Creole,-,Cayo,21,ACMP
+21291,M,Other,Belize City,BELIZE,20,AINT
+21323,M,Creole,Belize City,BELIZE,20,AMAB
+21358,F,Creole,Belize City,BELIZE,22,AMAP
+21370,M,Creole,-,STANN CREEK,6,AMAT
+21387,M,Creole,Belize City,BELIZE,20,AMEE
+21420,F,Creole,Belize City,BELIZE,37,ANRM
+21425,F,Creole,Belize City,BELIZE,22,AENG
+21431,M,Creole,Belize City,BELIZE,10,APRE
+21435,M,Creole,Belize City,BELIZE,20,AECE
+21456,M,Garifuna,-,STANN CREEK,25,ABUS
+21464,M,Creole,-,Cayo,30,ATOS
+21500,M,Creole,-,STANN CREEK,36,AAGR
+21509,M,Mestizo,BELMOPAN,Cayo,51,AARC
+21539,M,Mestizo,BELMOPAN,Cayo,51,ABCB
+21570,M,Mestizo,BELMOPAN,Cayo,30,ABCE
+21597,M,Mestizo,BELMOPAN,Cayo,66,ABCM
+21618,M,Mestizo,Belize City,BELIZE,87,ABIO
+21629,M,Mestizo,-,Cayo,35,ABMB
+21635,M,Garifuna,DANGRIGA TOWN,STANN CREEK,25,ABMP
+21673,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,27,ACHE
+21681,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,27,ACMB
+21712,M,Creole,BELMOPAN,Cayo,30,ACMP
+21741,M,Mestizo,-,STANN CREEK,25,AINT
+21779,M,Creole,Belize City,BELIZE,20,AMAB
+21780,F,Garifuna,Belize City,BELIZE,20,AMAP
+21792,M,Mestizo,SPANISH LOOKOUT,Cayo,21,AMAT
+21797,M,East Indian,PUNTA GORDA TOWN,TOLEDO,10,AMEE
+21811,M,Garifuna,DANGRIGA TOWN,STANN CREEK,25,ANRM
+21852,M,Mestizo,ORANGE WALK TOWN,ORANGE WALK,16,AENG
+21888,F,Mestizo,-,ORANGE WALK,26,APRE
+21918,M,Creole,-,BELIZE,20,AECE
+21924,M,Mestizo,-,ORANGE WALK,28,ABUS
+21935,M,Mestizo,Santa Elena Town,Cayo,21,ATOS
+21947,M,Creole,DANGRIGA TOWN,STANN CREEK,25,AAGR
+21954,F,Mestizo,BELMOPAN,Cayo,54,AARC
+21960,M,Creole,-,Cayo,30,ABCB
+21961,M,Mestizo,-,Cayo,21,ABCE
+21973,M,Mestizo,-,STANN CREEK,36,ABCM
+21998,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,32,ABIO
+22025,F,Creole,ORANGE WALK TOWN,ORANGE WALK,47,ABMB
+22039,M,Mestizo,BELMOPAN,Cayo,30,ABMP
+22065,M,Unknown,-,Cayo,32,ACHE
+22096,F,Mestizo,-,Cayo,21,ACMB
+22106,M,Garifuna,BELMOPAN,Cayo,66,ACMP
+22113,M,Creole,Santa Elena Town,Cayo,27,AINT
+22143,M,Ketchi,-,TOLEDO,45,AMAB
+22148,M,Creole,Santa Elena Town,Cayo,27,AMAP
+22149,M,Mestizo,-,Cayo,13,AMAT
+22157,F,Mestizo,-,Cayo,27,AMEE
+22187,F,Creole,BELMOPAN,Cayo,27,ANRM
+22205,F,Mestizo,PUNTA GORDA TOWN,TOLEDO,45,AENG
+22214,F,Garifuna,PUNTA GORDA TOWN,TOLEDO,45,APRE
+22221,M,Creole,-,STANN CREEK,25,AECE
+22235,M,Mayan,Belmopan City,Cayo,30,ABUS
+22240,F,Creole,Belize City,BELIZE,56,ATOS
+22248,M,Mestizo,-,COROZAL,52,AAGR
+22277,M,Creole,BELMOPAN,Cayo,49,AARC
+22279,M,Mestizo,-,BELIZE,20,ABCB
+22282,M,Mayan,-,TOLEDO,18,ABCE
+22297,M,East Indian,PUNTA GORDA TOWN,TOLEDO,45,ABCM
+22326,M,Mestizo,DANGRIGA TOWN,STANN CREEK,25,ABIO
+22337,F,Other,PUNTA GORDA TOWN,TOLEDO,45,ABMB
+22368,M,Mayan,PUNTA GORDA TOWN,TOLEDO,18,ABMP
+22377,M,Ketchi,-,TOLEDO,18,ACHE
+22411,F,Mayan,-,TOLEDO,62,ACMB
+22417,M,Mestizo,BELMOPAN,Cayo,72,ACMP
+22443,M,Mestizo,BELMOPAN,Cayo,66,AINT
+22449,M,Creole,BELMOPAN,Cayo,54,AMAB
+22479,M,Mestizo,BELMOPAN,Cayo,66,AMAP
+22509,M,Mayan,-,Cayo,27,AMAT
+22539,M,Other,Belmopan City,Cayo,54,AMEE
+22550,M,Creole,BELMOPAN,Cayo,30,ANRM
+22584,F,Other,BELMOPAN,Cayo,30,AENG
+22608,M,Mestizo,BELMOPAN,Cayo,66,APRE
+22618,F,Creole,-,BELIZE,22,AECE
+22622,M,Unknown,Belize City,BELIZE,42,ABUS
+22631,M,Mestizo,-,STANN CREEK,25,ATOS
+22638,M,Other,BENQUE VIEJO DEL CARMEN,Cayo,38,AAGR
+22677,M,Creole,Santa Elena Town,Cayo,21,AARC
+22686,M,Other,BELMOPAN,Cayo,30,ABCB
+22691,M,Other,BELMOPAN,Cayo,72,ABCE
+22702,M,Mestizo,-,Cayo,27,ABCM
+22704,F,Creole,-,Cayo,54,ABIO
+22722,M,Other,DANGRIGA TOWN,STANN CREEK,25,ABMB
+22752,M,Creole,SAN PEDRO TOWN,BELIZE,39,ABMP
+22762,M,Unknown,BELMOPAN,Cayo,30,ACHE
+22767,M,Creole,BELMOPAN,Cayo,49,ACMB
+22777,M,Mestizo,-,Cayo,38,ACMP
+22796,F,Creole,Santa Elena Town,Cayo,27,AINT
+22820,M,Mestizo,Belize City,BELIZE,63,AMAB
+22835,M,Mestizo,SAN IGNACIO TOWN,Cayo,36,AMAP
+22850,M,Creole,Belize City,BELIZE,20,AMAT
+22861,M,Mestizo,-,BELIZE,10,AMEE
+22887,M,Other,-,STANN CREEK,25,ANRM
+22910,M,Mestizo,-,ORANGE WALK,28,AENG
+22921,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,11,APRE
+22940,M,Garifuna,-,STANN CREEK,36,AECE
+22968,M,Garifuna,-,STANN CREEK,36,ABUS
+22996,M,Creole,ORANGE WALK TOWN,ORANGE WALK,16,ATOS
+23003,F,Other,BELMOPAN,Cayo,49,AAGR
+23005,M,Mestizo,-,STANN CREEK,25,AARC
+23032,F,Creole,-,BELIZE,48,ABCB
+23042,M,Garifuna,PUNTA GORDA TOWN,TOLEDO,45,ABCE
+23044,M,Other,BELMOPAN,Cayo,66,ABCM
+23051,F,Ketchi,PUNDA GORDA TOWN,TOLEDO,45,ABIO
+23061,M,Creole,-,STANN CREEK,25,ABMB
+23071,M,Mestizo,BELMOPAN,Cayo,30,ABMP
+23089,F,Creole,-,STANN CREEK,25,ACHE
+23097,M,Mayan,-,TOLEDO,45,ACMB
+23109,M,Mestizo,-,Cayo,24,ACMP
+23115,M,African,BELMOPAN,Cayo,30,AINT
+23125,M,Other,Belmopan City,Cayo,,AMAB
+23149,M,Mestizo,ORANGE WALK TOWN,ORANGE WALK,28,AMAP
+23162,M,Mestizo,Santa Elena Town,Cayo,27,AMAT
+23174,F,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,32,AMEE
+23199,M,Mestizo,SAN IGNACIO TOWN,Cayo,27,ANRM
+23211,M,Mestizo,-,Cayo,65,AENG
+23217,F,Creole,BELIZE,BELIZE,17,APRE
+23248,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,21,AECE
+23268,F,Other,BELMOPAN,Cayo,54,ABUS
+23300,M,Mestizo,BELMOPAN,Cayo,66,ATOS
+23330,F,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,27,AAGR
+23332,F,East Indian,SAN IGNACIO TOWN,Cayo,27,AARC
+23344,M,Mestizo,BELMOPAN,Cayo,66,ABCB
+23372,F,Creole,Santa Elena Town,Cayo,50,ABCE
+23388,M,East Indian,-,Cayo,30,ABCM
+23406,M,Mestizo,Belmopan City,Cayo,54,ABIO
+23431,M,Mestizo,BELMOPAN,Cayo,54,ABMB
+23437,M,Mestizo,BELMOPAN,Cayo,66,ABMP
+23468,M,Creole,BELMOPAN,Cayo,30,ACHE
+23476,M,Creole,Belmopan City,Cayo,66,ACMB
+23490,F,Creole,Belize City,BELIZE,20,ACMP
+23503,M,Other,BELMOPAN,Cayo,10,AINT
+23527,F,Creole,BELMOPAN,Cayo,30,AMAB
+23533,M,Other,-,Cayo,30,AMAP
+23564,M,Mestizo,BELMOPAN,Cayo,30,AMAT
+23565,M,Mestizo,Belmopan City,Cayo,30,AMEE
+23600,M,Creole,-,BELIZE,20,ANRM
+23609,M,Other,-,STANN CREEK,36,AENG
+23610,F,Creole,Belize City,BELIZE,17,APRE
+23617,F,Mestizo,Belize City,BELIZE,22,AECE
+23638,M,Mestizo,Belize City,BELIZE,42,ABUS
+23666,F,Creole,-,BELIZE,56,ATOS
+23687,M,Garifuna,-,STANN CREEK,25,
+23695,F,Creole,-,Cayo,24,AAGR
+23725,M,Mestizo,COROZAL TOWN,COROZAL,13,AARC
+23732,M,Other,-,TOLEDO,45,ABCB
+23764,F,Other,-,TOLEDO,10,ABCE
+23787,M,Mayan,PUNTA GORDA TOWN,TOLEDO,45,ABCM
+23817,M,Other,PUNTA GORDA TOWN,TOLEDO,45,ABIO
+23849,M,Creole,Belize City,BELIZE,42,ABMB
+23855,M,Garifuna,-,BELIZE,10,ABMP
+23856,M,Creole,PUNTA GORDA TOWN,TOLEDO,40,ACHE
+23885,M,Other,Belize City,BELIZE,10,ACMB
+23892,M,Mestizo,-,Cayo,27,ACMP
+23919,M,Mestizo,-,Cayo,66,AINT
+23921,F,Creole,-,BELIZE,10,AMAB
+23933,M,Garifuna,Belize City,BELIZE,6,AMAP
+23963,M,Creole,Teakettle village,Cayo,30,AMAT
+23972,M,Mestizo,Belize City,BELIZE,10,AMEE
+24001,M,Mestizo,SAN IGNACIO,Cayo,28,ANRM
+24028,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,32,AENG
+24060,M,Creole,Belize City,BELIZE,23,APRE
+24061,M,Mestizo,-,ORANGE WALK,71,AECE
+24072,M,Mestizo,Belmopan City,Cayo,30,ABUS
+24086,F,Other,BELMOPAN,Cayo,30,ATOS
+24093,M,Other,DANGRIGA TOWN,STANN CREEK,25,AAGR
+24121,M,Mestizo,SANTA ELENA,Cayo,21,AARC
+24146,F,Mestizo,Belize City,BELIZE,17,ABCB
+24167,M,Mestizo,BELMOPAN,Cayo,30,ABCE
+24173,M,Mayan,-,Cayo,30,ABCM
+24179,F,Mayan,-,TOLEDO,62,ABIO
+24187,M,Other,SAN IGNACIO TOWN,BELIZE,27,ABMB
+24191,M,Mestizo,DANGRIGA TOWN,STANN CREEK,2,ABMP
+24194,M,Mestizo,Belize City,BELIZE,20,ACHE
+24222,F,Creole,Belize City,Belize District,17,ACMB
+24226,M,Mestizo,BELMOPAN,Cayo,30,ACMP
+24245,M,Other,BELMOPAN,Cayo,35,AINT
+24265,M,Creole,Belize City,BELIZE,33,AMAB
+24287,F,Ketchi,CITY OF BELMOPAN,Cayo,30,AMAP
+24294,M,Creole,ORANGE WALK TOWN,ORANGE WALK,33,AMAT
+24315,M,Mestizo,ORANGE WALK TOWN,ORANGE WALK,33,AMEE
+24330,F,Creole,-,Cayo,50,ANRM
+24358,M,Mestizo,-,BELIZE,20,AENG
+24365,M,Mestizo,-,BELIZE,17,APRE
+24369,M,Ketchi,BELMOPAN,Cayo,18,AECE
+24396,M,Creole,Belize City,BELIZE,40,ABUS
+24407,F,Mestizo,BELMOPAN,Cayo,66,ATOS
+24412,M,Mestizo,PUNTA GORDA TOWN,TOLEDO,81,AAGR
+24420,M,Creole,-,BELIZE,56,AARC
+24432,M,Creole,BELMOPAN,Cayo,66,ABCB
+24443,F,Mestizo,-,Cayo,38,ABCE
+24456,M,Mestizo,ORANGE WALK TOWN,ORANGE WALK,16,ABCM
+24485,F,Garifuna,Belize City,BELIZE,10,ABIO
+24509,F,Garifuna,LADYVILLE,BELIZE,20,ABMB
+24528,F,Mestizo,-,Cayo,35,ABMP
+24556,F,Mestizo,BELMOPAN,Cayo,54,ACHE
+24558,M,Oriental,-,STANN CREEK,58,ACMB
+24571,F,Mayan,-,ORANGE WALK,81,ACMP
+24582,M,Creole,BELMOPAN,Cayo,30,AINT
+24610,M,Creole,ORANGE WALK TOWN,ORANGE WALK,7,AMAB
+24637,F,Mestizo,-,Cayo,30,AMAP
+24659,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,38,AMAT
+24672,M,Creole,BELMOPAN,Cayo,66,AMEE
+24688,M,Mestizo,-,Cayo,30,ANRM
+24696,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,27,AENG
+24723,M,Mestizo,Santa Elena Town,Cayo,5,APRE
+24736,F,Mestizo,-,Cayo,30,AECE
+24755,M,Mestizo,Belize City,BELIZE,19,ABUS
+24761,M,Mayan,BENQUE VIEJO DEL CARMEN,Cayo,38,ATOS
+24788,M,Mestizo,-,Cayo,27,AAGR
+24814,M,Oriental,ORANGE WALK ROAD,ORANGE WALK,20,AARC
+24827,M,Mestizo,-,Cayo,30,ABCB
+24832,M,Garifuna,DANGRIGA,STANN CREEK,2,ABCE
+24835,M,Creole,-,TOLEDO,45,ABCM
+24858,M,Mayan,-,TOLEDO,18,ABIO
+24883,F,Creole,Belize City,BELIZE,22,ABMB
+24889,M,Creole,-,COROZAL,7,ABMP
+24913,F,Other,Santa Elena Town,Cayo,21,ACHE
+24936,M,Other,-,Cayo,38,ACMB
+24939,M,Creole,BELMOPAN,Cayo,13,ACMP
+24950,M,East Indian,BELMOPAN,Cayo,66,AINT
+24955,M,Mestizo,ORANGE WALK TOWN,ORANGE WALK,33,AMAB
+24963,M,Mestizo,CITY OF BELMOPAN,Cayo,30,AMAP
+24972,M,Mestizo,-,BELIZE,53,AMAT
+24983,M,Ketchi,-,TOLEDO,45,AMEE
+24989,F,Mayan,PUNTA GORDA TOWN,TOLEDO,45,ANRM
+25005,F,Creole,-,BELIZE,20,AENG
+25012,F,Mestizo,-,BELIZE,63,APRE
+25026,M,Creole,BELMOPAN,Cayo,28,AECE
+25043,M,Creole,Belize City,Belize District,10,ABUS
+25054,M,Mayan,BELMOPAN,Cayo,,ATOS
+25064,F,Other,-,ORANGE WALK,83,AAGR
+25081,M,Creole,Belize City,BELIZE,63,AARC
+25083,M,Mayan,-,Cayo,21,ABCB
+25095,M,Mestizo,BELMOPAN,Cayo,66,ABCE
+25109,M,Mestizo,-,COROZAL,72,ABCM
+25120,M,Mestizo,Belmopan City,Cayo,72,ABIO
+25134,M,Mestizo,-,TOLEDO,25,ABMB
+25148,F,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,32,ABMP
+25163,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,38,ACHE
+25177,M,Creole,-,BELIZE,53,ACMB
+25191,M,Mestizo,-,BELIZE,53,ACMP
+25199,M,Creole,Belize City,BELIZE,37,AINT
+25202,F,Creole,Belmopan City,Cayo,30,AMAB
+25215,M,Mestizo,BELMOPAN,Cayo,54,AMAP
+25229,M,Creole,-,STANN CREEK,25,AMAT
+25231,M,Mayan,-,TOLEDO,81,AMEE
+25244,M,Mestizo,-,BELIZE,20,ANRM
+25251,M,African,KANO CITY,Kano state,,AENG
+25253,M,Creole,-,STANN CREEK,36,APRE
+25264,M,Creole,Belmopan City,BELIZE,20,AECE
+25275,M,Creole,DANGRIGA TOWN,STANN CREEK,25,ABUS
+25281,M,Mestizo,SAN IGNACIO,Cayo,11,ATOS
+25285,M,Mestizo,Belmopan City,Cayo,38,AAGR
+25290,M,Mestizo,-,Cayo,54,AARC
+25297,F,Garifuna,-,Cayo,30,ABCB
+25311,M,Creole,Belize City,BELIZE,42,ABCE
+25321,M,Creole,-,STANN CREEK,36,ABCM
+25336,M,East Indian,-,TOLEDO,36,ABIO
+25348,M,Mestizo,Belmopan City,Cayo,30,ABMB
+25354,M,Mestizo,-,STANN CREEK,2,ABMP
+25365,M,Mestizo,PUNTA GORDA TOWN,TOLEDO,45,ACHE
+25378,M,Creole,BELMOPAN,Cayo,30,ACMB
+25382,M,Creole,-,BELIZE,63,ACMP
+25390,M,Mestizo,Santa Elena Town,Cayo,21,AINT
+25398,F,Mayan,Belmopan City,Cayo,28,AMAB
+25409,F,Mestizo,SAN IGNACIO TOWN,Cayo,27,AMAP
+25421,F,Creole,-,BELIZE,22,AMAT
+25428,M,Other,SAN IGNACIO,Cayo,27,AMEE
+25442,M,Mayan,-,STANN CREEK,25,ANRM
+25444,M,Mestizo,BELMOPAN,Cayo,30,AENG
+25452,F,Mestizo,Belize City,BELIZE,22,APRE
+25457,F,Creole,BELMOPAN,Cayo,30,AECE
+25464,M,Mayan,PUNTA GORDA TOWN,TOLEDO,62,ABUS
+25470,F,East Indian,PUNTA GORDA TOWN,TOLEDO,45,ATOS
+25481,F,Mayan,-,TOLEDO,18,AAGR
+25687,F,Unknown,Belize City,BELIZE,13,AARC
+25743,F,Garifuna,PUNTA GORDA,TOLEDO,13,ABCB
